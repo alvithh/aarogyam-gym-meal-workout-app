@@ -1,0 +1,601 @@
+meal_id,meal_name,meal_time,diet_type,meal_type,suitable_for,calories,protein,carbs,fats,fiber_g,glycemic_index,prep_time_min,is_gluten_free,is_diabetic_friendly,portion,scalable
+1,Grilled Chicken + Brown Rice + Salad,Dinner,Non-Veg,Deficit,"Weight Loss,Yoga",454,37.1,38.0,12.0,5.2,Low,34,Yes,Yes,1 × 150g grilled chicken + 1.2 × 100g brown rice + 1 × 100g salad,No
+2,Grilled Chicken + Brown Rice + Curd + Salad,Lunch,Non-Veg,Balanced,"Toning,Yoga",550,41.4,50.0,16.0,5.7,Low,18,Yes,Yes,1 × 150g grilled chicken + 1.5 × 100g brown rice + 1 × 100g curd + 1 × 100g salad,No
+3,Khichdi + Curd + Salad,Dinner,Veg,Deficit,"Weight Loss,Yoga",425,16.3,62.0,11.0,8.4,Low,18,Yes,Yes,0.9 × 250g khichdi + 1 × 100g curd + 1 × 100g salad,No
+4,Dhokla + Chutney + Coffee,Snack,Veg,Balanced,"Toning,Yoga",260,9.0,41.0,6.0,3.0,Low,23,No,Yes,1 × 100g dhokla + 1 × 30g chutney + 1 × 150ml filter coffee,Yes
+5,Millet Rotis + Palak Paneer + Salad,Dinner,Veg,Balanced,"Toning,Yoga",550,24.0,64.0,21.0,12.0,Medium,20,Yes,Yes,2 × 1 millet roti (50g) + 1 × 150g palak paneer + 1 × 100g salad,No
+6,Khichdi + Curd + Salad,Dinner,Veg,Deficit,"Weight Loss,Yoga",425,16.3,62.0,11.0,8.4,Low,30,Yes,Yes,0.9 × 250g khichdi + 1 × 100g curd + 1 × 100g salad,No
+7,Veg Pulao + Raita + Salad,Lunch,Veg,Deficit,"Weight Loss,Yoga",450,12.0,64.0,13.0,6.0,Medium,27,Yes,Yes,1 × 200g veg pulao + 1 × 100g raita + 1 × 100g salad,Yes
+8,Dhokla + Chutney + Coffee,Snack,Veg,Balanced,"Toning,Yoga",260,9.0,41.0,6.0,3.0,Low,10,No,Yes,1 × 100g dhokla + 1 × 30g chutney + 1 × 150ml filter coffee,No
+9,Chicken Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",570,35.0,52.0,23.0,7.0,Medium,31,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+10,Khichdi + Curd + Salad,Dinner,Veg,Deficit,"Weight Loss,Yoga",425,16.3,62.0,11.0,8.4,Low,26,Yes,Yes,0.9 × 250g khichdi + 1 × 100g curd + 1 × 100g salad,Yes
+11,Grilled Chicken + Brown Rice + Salad,Dinner,Non-Veg,Deficit,"Weight Loss,Yoga",454,37.1,38.0,12.0,5.2,Low,29,Yes,Yes,1 × 150g grilled chicken + 1.2 × 100g brown rice + 1 × 100g salad,Yes
+12,Chicken Soup + Salad,Snack,Non-Veg,Balanced,"Toning,Yoga",190,15.5,10.0,9.0,3.0,Low,20,Yes,Yes,0.5 × 150g chicken curry + 1 × 100g salad,Yes
+13,Upma + Coconut Water,Breakfast,Veg,Deficit,"Weight Loss,Yoga",315,6.0,56.0,8.0,2.0,Medium,27,No,Yes,1 × 150g upma + 1 × 200ml coconut water,Yes
+14,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,21,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+15,Veg Pulao + Raita,Dinner,Veg,Deficit,"Weight Loss,Yoga",368,9.4,51.0,11.0,2.7,Medium,13,Yes,Yes,0.9 × 200g veg pulao + 1 × 100g raita,No
+16,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,23,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+17,Idli Sambar + Chutney + Filter Coffee,Breakfast,Veg,Deficit,"Weight Loss,Yoga",350,12.0,56.0,8.0,5.0,Low,19,Yes,Yes,1 × 2 idlis (100g) + 1 × 150g sambar + 1 × 30g chutney + 1 × 150ml filter coffee,Yes
+18,Chicken Soup + Salad,Snack,Non-Veg,Balanced,"Toning,Yoga",190,15.5,10.0,9.0,3.0,Low,20,Yes,Yes,0.5 × 150g chicken curry + 1 × 100g salad,No
+19,Roasted Chana + Chai,Snack,Veg,Balanced,"Toning,Yoga",220,10.5,32.0,4.0,8.0,Medium,21,Yes,Yes,1 × 40g roasted chana + 1 × 150ml masala chai,No
+20,Moong Chilla + Curd,Breakfast,Veg,Deficit,"Weight Loss,Yoga",310,17.5,30.0,11.0,6.0,Low,15,Yes,Yes,1 × 2 moong chillas (150g) + 1 × 100g curd,No
+21,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,14,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,Yes
+22,Dhokla + Chutney + Coffee,Snack,Veg,Balanced,"Toning,Yoga",260,9.0,41.0,6.0,3.0,Low,11,No,Yes,1 × 100g dhokla + 1 × 30g chutney + 1 × 150ml filter coffee,No
+23,Chicken Biryani + Raita,Lunch,Non-Veg,Surplus,"Weight Gain,Toning",656,32.2,64.0,26.0,3.3,Medium,24,Yes,No,1.1 × 200g veg pulao + 0.8 × 150g chicken curry + 1 × 100g raita,No
+24,Grilled Chicken + Brown Rice + Salad,Dinner,Non-Veg,Deficit,"Weight Loss,Yoga",454,37.1,38.0,12.0,5.2,Low,25,Yes,Yes,1 × 150g grilled chicken + 1.2 × 100g brown rice + 1 × 100g salad,No
+25,Roasted Chana + Chai,Snack,Veg,Balanced,"Toning,Yoga",220,10.5,32.0,4.0,8.0,Medium,12,Yes,Yes,1 × 40g roasted chana + 1 × 150ml masala chai,No
+26,Paneer Curry + 2 Rotis + Salad,Dinner,Veg,Balanced,"Toning,Yoga",610,26.0,58.0,29.0,8.0,Medium,14,No,Yes,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+27,Paneer Curry + 2 Rotis + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",690,29.0,64.0,32.0,8.0,Medium,29,No,No,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,No
+28,Chicken Biryani + Raita,Lunch,Non-Veg,Surplus,"Weight Gain,Toning",656,32.2,64.0,26.0,3.3,Medium,35,Yes,No,1.1 × 200g veg pulao + 0.8 × 150g chicken curry + 1 × 100g raita,Yes
+29,Egg Bhurji + 2 Rotis + Chai,Breakfast,Non-Veg,Surplus,"Weight Gain,Toning",520,21.5,52.0,24.0,4.0,High,15,No,No,1 × 2 eggs bhurji (100g) + 2 × 1 roti (50g) + 1 × 150ml masala chai,No
+30,Khichdi + Salad + Buttermilk,Lunch,Veg,Deficit,"Weight Loss,Yoga",480,17.0,69.0,12.0,9.0,Low,12,Yes,Yes,1 × 250g khichdi + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+31,Chicken Curry + 2 Rotis + Salad + Chaas,Lunch,Non-Veg,Balanced,"Toning,Yoga",650,38.0,58.0,26.0,7.0,Medium,34,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,No
+32,Millet Rotis + Palak Paneer + Salad,Dinner,Veg,Balanced,"Toning,Yoga",550,24.0,64.0,21.0,12.0,Medium,24,Yes,Yes,2 × 1 millet roti (50g) + 1 × 150g palak paneer + 1 × 100g salad,No
+33,Paratha + Curd + Chai,Breakfast,Veg,Deficit,"Weight Loss,Yoga",320,9.0,40.0,13.0,3.0,Medium,17,No,Yes,1 × 1 paratha (80g) + 1 × 100g curd + 1 × 150ml masala chai,No
+34,Besan Chilla + Chutney + Chaas,Breakfast,Veg,Balanced,"Toning,Yoga",400,17.0,40.0,14.0,6.0,Low,20,Yes,Yes,1 × 2 besan chillas (150g) + 1 × 30g chutney + 1 × 200ml chaas,No
+35,Poha + Sprouts + Chai,Breakfast,Veg,Balanced,"Toning,Yoga",460,14.5,76.0,11.0,8.0,Medium,26,Yes,Yes,1 × 150g poha + 1 × 100g sprouts salad + 1 × 150ml masala chai,Yes
+36,Upma + Coconut Water,Breakfast,Veg,Deficit,"Weight Loss,Yoga",315,6.0,56.0,8.0,2.0,Medium,15,No,Yes,1 × 150g upma + 1 × 200ml coconut water,Yes
+37,Fruit Bowl + Buttermilk,Snack,Veg,Deficit,"Weight Loss,Yoga",132,3.3,20.0,3.0,2.4,Medium,28,Yes,Yes,1 × 100g apple + 1 × 200ml buttermilk,No
+38,Dosa + Sambar + Chutney,Breakfast,Veg,Balanced,"Toning,Yoga",360,10.0,51.0,12.0,5.0,Medium,26,Yes,Yes,1 × 1 dosa (120g) + 1 × 150g sambar + 1 × 30g chutney,Yes
+39,Egg Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",540,24.0,54.0,23.0,7.0,Medium,31,No,Yes,1 × 2 eggs curry (150g) + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+40,Grilled Chicken + Brown Rice + Curd + Salad,Lunch,Non-Veg,Balanced,"Toning,Yoga",550,41.4,50.0,16.0,5.7,Low,32,Yes,Yes,1 × 150g grilled chicken + 1.5 × 100g brown rice + 1 × 100g curd + 1 × 100g salad,Yes
+41,Paneer Curry + 2 Rotis + Salad,Dinner,Veg,Balanced,"Toning,Yoga",610,26.0,58.0,29.0,8.0,Medium,13,No,Yes,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad,No
+42,Rajma + Jeera Rice + Salad + Chaas,Lunch,Veg,Balanced,"Toning,Yoga",550,20.8,90.0,10.0,11.8,Medium,25,Yes,Yes,1 × 150g rajma + 1.5 × 100g jeera rice + 1 × 100g salad + 1 × 200ml chaas,No
+43,Veg Soup + Salad,Snack,Veg,Deficit,"Weight Loss,Yoga",150,6.0,23.0,4.0,6.0,Low,15,Yes,Yes,1 × 150g sambar + 1 × 100g salad,No
+44,Millet Rotis + Dal + Mix Veg + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",660,22.0,94.0,19.0,17.0,Medium,10,Yes,No,2 × 1 millet roti (50g) + 1 × 150g dal + 1 × 150g mixed veg sabzi + 1 × 200ml chaas,Yes
+45,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,20,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,No
+46,Boiled Eggs + Lime Water,Snack,Non-Veg,Deficit,"Weight Loss,Yoga",174,9.8,8.0,11.0,0.0,Low,27,Yes,Yes,0.7 × 2 eggs bhurji (100g) + 1 × 200ml fresh lime water,No
+47,Millet Rotis + Palak Paneer + Salad,Dinner,Veg,Balanced,"Toning,Yoga",550,24.0,64.0,21.0,12.0,Medium,14,Yes,Yes,2 × 1 millet roti (50g) + 1 × 150g palak paneer + 1 × 100g salad,No
+48,Grilled Chicken + Brown Rice + Curd + Salad,Lunch,Non-Veg,Balanced,"Toning,Yoga",550,41.4,50.0,16.0,5.7,Low,18,Yes,Yes,1 × 150g grilled chicken + 1.5 × 100g brown rice + 1 × 100g curd + 1 × 100g salad,No
+49,Chicken Soup + Salad,Snack,Non-Veg,Balanced,"Toning,Yoga",190,15.5,10.0,9.0,3.0,Low,16,Yes,Yes,0.5 × 150g chicken curry + 1 × 100g salad,No
+50,Roasted Chana + Chai,Snack,Veg,Balanced,"Toning,Yoga",220,10.5,32.0,4.0,8.0,Medium,13,Yes,Yes,1 × 40g roasted chana + 1 × 150ml masala chai,Yes
+51,Veg Pulao + Raita,Dinner,Veg,Deficit,"Weight Loss,Yoga",368,9.4,51.0,11.0,2.7,Medium,18,Yes,Yes,0.9 × 200g veg pulao + 1 × 100g raita,No
+52,Paneer Curry + 2 Rotis + Salad,Dinner,Veg,Balanced,"Toning,Yoga",610,26.0,58.0,29.0,8.0,Medium,22,No,Yes,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+53,Paneer Curry + 2 Rotis + Salad,Dinner,Veg,Balanced,"Toning,Yoga",610,26.0,58.0,29.0,8.0,Medium,23,No,Yes,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad,No
+54,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,19,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,No
+55,Veg Pulao + Raita,Dinner,Veg,Deficit,"Weight Loss,Yoga",368,9.4,51.0,11.0,2.7,Medium,28,Yes,Yes,0.9 × 200g veg pulao + 1 × 100g raita,Yes
+56,Paratha + Curd + Chai,Breakfast,Veg,Deficit,"Weight Loss,Yoga",320,9.0,40.0,13.0,3.0,Medium,34,No,Yes,1 × 1 paratha (80g) + 1 × 100g curd + 1 × 150ml masala chai,Yes
+57,Egg Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",540,24.0,54.0,23.0,7.0,Medium,13,No,Yes,1 × 2 eggs curry (150g) + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+58,Idli Sambar + Chutney + Filter Coffee,Breakfast,Veg,Deficit,"Weight Loss,Yoga",350,12.0,56.0,8.0,5.0,Low,22,Yes,Yes,1 × 2 idlis (100g) + 1 × 150g sambar + 1 × 30g chutney + 1 × 150ml filter coffee,Yes
+59,Veg Pulao + Raita + Salad,Lunch,Veg,Deficit,"Weight Loss,Yoga",450,12.0,64.0,13.0,6.0,Medium,26,Yes,Yes,1 × 200g veg pulao + 1 × 100g raita + 1 × 100g salad,Yes
+60,Egg Curry + Rice + Salad + Buttermilk,Lunch,Non-Veg,Balanced,"Toning,Yoga",575,24.8,62.0,22.0,3.8,Medium,16,Yes,Yes,1 × 2 eggs curry (150g) + 1.5 × 100g steamed rice + 1 × 100g salad + 1 × 200ml buttermilk,No
+61,Grilled Chicken + Brown Rice + Curd + Salad,Lunch,Non-Veg,Balanced,"Toning,Yoga",550,41.4,50.0,16.0,5.7,Low,30,Yes,Yes,1 × 150g grilled chicken + 1.5 × 100g brown rice + 1 × 100g curd + 1 × 100g salad,Yes
+62,Paneer Curry + 2 Rotis + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",690,29.0,64.0,32.0,8.0,Medium,14,No,No,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,No
+63,Egg Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",540,24.0,54.0,23.0,7.0,Medium,18,No,Yes,1 × 2 eggs curry (150g) + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+64,Besan Chilla + Chutney + Chaas,Breakfast,Veg,Balanced,"Toning,Yoga",400,17.0,40.0,14.0,6.0,Low,13,Yes,Yes,1 × 2 besan chillas (150g) + 1 × 30g chutney + 1 × 200ml chaas,Yes
+65,2 Rotis + Dal + Mix Veg + Salad,Dinner,Veg,Balanced,"Toning,Yoga",650,22.0,92.0,21.0,18.0,Medium,29,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g mixed veg sabzi + 1 × 100g salad,Yes
+66,Egg Curry + Rice + Salad + Buttermilk,Lunch,Non-Veg,Balanced,"Toning,Yoga",575,24.8,62.0,22.0,3.8,Medium,17,Yes,Yes,1 × 2 eggs curry (150g) + 1.5 × 100g steamed rice + 1 × 100g salad + 1 × 200ml buttermilk,No
+67,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,30,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,No
+68,Grilled Chicken + Brown Rice + Salad,Dinner,Non-Veg,Deficit,"Weight Loss,Yoga",454,37.1,38.0,12.0,5.2,Low,18,Yes,Yes,1 × 150g grilled chicken + 1.2 × 100g brown rice + 1 × 100g salad,No
+69,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,29,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,Yes
+70,Dosa + Sambar + Chutney,Breakfast,Veg,Balanced,"Toning,Yoga",360,10.0,51.0,12.0,5.0,Medium,30,Yes,Yes,1 × 1 dosa (120g) + 1 × 150g sambar + 1 × 30g chutney,No
+71,Fruit Bowl + Buttermilk,Snack,Veg,Deficit,"Weight Loss,Yoga",132,3.3,20.0,3.0,2.4,Medium,11,Yes,Yes,1 × 100g apple + 1 × 200ml buttermilk,Yes
+72,Oats Upma + Banana + Green Tea,Breakfast,Veg,Deficit,"Weight Loss,Yoga",321,8.1,61.0,5.0,8.6,Medium,13,Yes,Yes,1 × 150g oats upma + 1 × 100g banana + 1 × 150ml green tea,Yes
+73,Chicken Curry + 2 Rotis + Salad + Chaas,Lunch,Non-Veg,Balanced,"Toning,Yoga",650,38.0,58.0,26.0,7.0,Medium,10,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,No
+74,Khichdi + Salad + Buttermilk,Lunch,Veg,Deficit,"Weight Loss,Yoga",480,17.0,69.0,12.0,9.0,Low,24,Yes,Yes,1 × 250g khichdi + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+75,Boiled Eggs + Lime Water,Snack,Non-Veg,Deficit,"Weight Loss,Yoga",174,9.8,8.0,11.0,0.0,Low,18,Yes,Yes,0.7 × 2 eggs bhurji (100g) + 1 × 200ml fresh lime water,No
+76,Boiled Eggs + Lime Water,Snack,Non-Veg,Deficit,"Weight Loss,Yoga",174,9.8,8.0,11.0,0.0,Low,19,Yes,Yes,0.7 × 2 eggs bhurji (100g) + 1 × 200ml fresh lime water,Yes
+77,Moong Chilla + Curd,Breakfast,Veg,Deficit,"Weight Loss,Yoga",310,17.5,30.0,11.0,6.0,Low,25,Yes,Yes,1 × 2 moong chillas (150g) + 1 × 100g curd,Yes
+78,Fruit Bowl + Buttermilk,Snack,Veg,Deficit,"Weight Loss,Yoga",132,3.3,20.0,3.0,2.4,Medium,32,Yes,Yes,1 × 100g apple + 1 × 200ml buttermilk,No
+79,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,21,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+80,Egg Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",540,24.0,54.0,23.0,7.0,Medium,13,No,Yes,1 × 2 eggs curry (150g) + 2 × 1 roti (50g) + 1 × 100g salad,No
+81,Besan Chilla + Chutney + Chaas,Breakfast,Veg,Balanced,"Toning,Yoga",400,17.0,40.0,14.0,6.0,Low,29,Yes,Yes,1 × 2 besan chillas (150g) + 1 × 30g chutney + 1 × 200ml chaas,Yes
+82,Khichdi + Salad + Buttermilk,Lunch,Veg,Deficit,"Weight Loss,Yoga",480,17.0,69.0,12.0,9.0,Low,13,Yes,Yes,1 × 250g khichdi + 1 × 100g salad + 1 × 200ml buttermilk,No
+83,Dhokla + Chutney + Coffee,Snack,Veg,Balanced,"Toning,Yoga",260,9.0,41.0,6.0,3.0,Low,26,No,Yes,1 × 100g dhokla + 1 × 30g chutney + 1 × 150ml filter coffee,Yes
+84,Chicken Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",570,35.0,52.0,23.0,7.0,Medium,13,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+85,Omelette + Brown Bread + Coffee,Breakfast,Non-Veg,Deficit,"Weight Loss,Yoga",260,16.0,9.0,17.0,0.0,Low,23,No,Yes,1 × 2 eggs bhurji (100g) + 0 × 1 roti (50g) + 1 × 150ml filter coffee,No
+86,Chicken Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",570,35.0,52.0,23.0,7.0,Medium,12,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad,No
+87,Millet Rotis + Dal + Mix Veg + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",660,22.0,94.0,19.0,17.0,Medium,25,Yes,No,2 × 1 millet roti (50g) + 1 × 150g dal + 1 × 150g mixed veg sabzi + 1 × 200ml chaas,Yes
+88,Moong Chilla + Curd,Breakfast,Veg,Deficit,"Weight Loss,Yoga",310,17.5,30.0,11.0,6.0,Low,27,Yes,Yes,1 × 2 moong chillas (150g) + 1 × 100g curd,Yes
+89,Paneer Tikka + Lime Water,Snack,Veg,Balanced,"Toning,Yoga",240,18.0,10.0,14.0,1.0,Low,16,Yes,Yes,1 × 100g paneer tikka + 1 × 200ml fresh lime water,No
+90,Paneer Curry + 2 Rotis + Salad,Dinner,Veg,Balanced,"Toning,Yoga",610,26.0,58.0,29.0,8.0,Medium,30,No,Yes,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+91,Paneer Curry + 2 Rotis + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",690,29.0,64.0,32.0,8.0,Medium,19,No,No,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,Yes
+92,Rajma + Jeera Rice + Salad + Chaas,Lunch,Veg,Balanced,"Toning,Yoga",550,20.8,90.0,10.0,11.8,Medium,33,Yes,Yes,1 × 150g rajma + 1.5 × 100g jeera rice + 1 × 100g salad + 1 × 200ml chaas,No
+93,Rajma + Jeera Rice + Salad + Chaas,Lunch,Veg,Balanced,"Toning,Yoga",550,20.8,90.0,10.0,11.8,Medium,10,Yes,Yes,1 × 150g rajma + 1.5 × 100g jeera rice + 1 × 100g salad + 1 × 200ml chaas,Yes
+94,Veg Soup + Salad,Snack,Veg,Deficit,"Weight Loss,Yoga",150,6.0,23.0,4.0,6.0,Low,34,Yes,Yes,1 × 150g sambar + 1 × 100g salad,Yes
+95,Roasted Chana + Chai,Snack,Veg,Balanced,"Toning,Yoga",220,10.5,32.0,4.0,8.0,Medium,12,Yes,Yes,1 × 40g roasted chana + 1 × 150ml masala chai,No
+96,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,23,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+97,Millet Rotis + Dal + Mix Veg + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",660,22.0,94.0,19.0,17.0,Medium,30,Yes,No,2 × 1 millet roti (50g) + 1 × 150g dal + 1 × 150g mixed veg sabzi + 1 × 200ml chaas,No
+98,Paneer Curry + 2 Rotis + Salad,Dinner,Veg,Balanced,"Toning,Yoga",610,26.0,58.0,29.0,8.0,Medium,11,No,Yes,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+99,Roasted Chana + Chai,Snack,Veg,Balanced,"Toning,Yoga",220,10.5,32.0,4.0,8.0,Medium,29,Yes,Yes,1 × 40g roasted chana + 1 × 150ml masala chai,No
+100,Idli Sambar + Chutney + Filter Coffee,Breakfast,Veg,Deficit,"Weight Loss,Yoga",350,12.0,56.0,8.0,5.0,Low,15,Yes,Yes,1 × 2 idlis (100g) + 1 × 150g sambar + 1 × 30g chutney + 1 × 150ml filter coffee,No
+101,Papaya + Oats Upma + Chai,Breakfast,Veg,Balanced,Toning,300,9.6,56.0,6.2,6.5,Low,16,Yes,Yes,150g papaya + 150g oats upma + Medium,Yes
+102,Banana + Sprouts Chaat + Chaas,Snack,Veg,Balanced,Weight Loss,270,12.0,50.0,3.3,4.6,Low,6,Yes,Yes,1 banana (100g) + 100g sprouts chaat + Low,Yes
+103,Banana + Roasted Chana + Chaas,Snack,Veg,Balanced,Toning,350,13.0,63.0,7.3,10.6,Low,19,Yes,Yes,1 banana (100g) + 50g roasted chana + Low,Yes
+104,Apple + Sprouts Chaat + Chai,Snack,Veg,Deficit,Weight Loss,212,10.3,40.0,3.2,4.4,Low,20,Yes,Yes,1 apple (100g) + 100g sprouts chaat + Medium,No
+105,Apple + Idli + Sambar + Chai,Breakfast,Veg,Balanced,Toning,332,10.3,63.0,5.2,6.4,Low,14,Yes,Yes,1 apple (100g) + 2 idlis (100g) + 150g sambar + Medium,Yes
+106,Pomegranate + Idli + Sambar + Coffee,Breakfast,Veg,Balanced,Toning,373,11.7,68.0,5.2,5.2,Medium,6,Yes,Yes,100g pomegranate arils + 2 idlis (100g) + 150g sambar + Medium,No
+107,Watermelon + Oats Upma + Chai,Breakfast,Veg,Balanced,Toning,300,10.0,56.0,6.2,4.6,Low,9,Yes,Yes,200g watermelon + 150g oats upma + Medium,Yes
+108,Banana + Salad + Coffee,Snack,Veg,Deficit,Weight Loss,200,5.0,39.0,2.3,5.6,Low,13,Yes,Yes,1 banana (100g) + 100g salad + Medium,Yes
+109,Banana + Oats Upma + Lime Water,Breakfast,Veg,Balanced,Toning,310,8.0,65.0,4.3,6.6,Low,6,Yes,Yes,1 banana (100g) + 150g oats upma + Low,No
+110,Watermelon + Roasted Chana + Chai,Snack,Veg,Balanced,Toning,300,12.0,54.0,7.2,8.6,Low,9,Yes,Yes,200g watermelon + 50g roasted chana + Medium,Yes
+111,Pomegranate + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,343,11.7,61.0,6.2,5.2,Low,7,Yes,Yes,100g pomegranate arils + 150g oats upma + Low,Yes
+112,Banana + Roasted Chana + Chai,Snack,Veg,Balanced,Toning,330,12.0,62.0,7.3,10.6,Low,9,Yes,Yes,1 banana (100g) + 50g roasted chana + Medium,Yes
+113,Banana + Sprouts Chaat + Buttermilk,Snack,Veg,Balanced,Weight Loss,280,12.0,51.0,4.3,4.6,Low,15,Yes,Yes,1 banana (100g) + 100g sprouts chaat + Low,No
+114,Banana + Poha + Chaas,Breakfast,Veg,Balanced,Toning,340,9.0,63.0,5.3,4.6,Medium,8,Yes,Yes,1 banana (100g) + 150g poha + Low,Yes
+115,Apple + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,312,10.3,56.0,6.2,6.4,Low,5,Yes,Yes,1 apple (100g) + 150g oats upma + Low,No
+116,Watermelon + Salad + Chaas,Snack,Veg,Deficit,Weight Loss,180,6.0,32.0,2.2,3.6,Low,16,Yes,Yes,200g watermelon + 100g salad + Low,Yes
+117,Banana + Salad + Buttermilk,Snack,Veg,Deficit,Weight Loss,220,6.0,41.0,3.3,5.6,Low,12,Yes,Yes,1 banana (100g) + 100g salad + Low,Yes
+118,Apple + Idli + Sambar + Chai,Breakfast,Veg,Balanced,Toning,332,10.3,63.0,5.2,6.4,Low,10,Yes,Yes,1 apple (100g) + 2 idlis (100g) + 150g sambar + Medium,No
+119,Watermelon + Poha + Chaas,Breakfast,Veg,Balanced,Toning,310,9.0,55.0,5.2,2.6,Medium,5,Yes,Yes,200g watermelon + 150g poha + Low,Yes
+120,Watermelon + Sprouts Chaat + Lime Water,Snack,Veg,Deficit,Weight Loss,200,9.0,42.0,1.2,2.6,Low,17,Yes,Yes,200g watermelon + 100g sprouts chaat + Low,No
+67,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,30,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,No
+66,Egg Curry + Rice + Salad + Buttermilk,Lunch,Non-Veg,Balanced,"Toning,Yoga",575,24.8,62.0,22.0,3.8,Medium,17,Yes,Yes,1 × 2 eggs curry (150g) + 1.5 × 100g steamed rice + 1 × 100g salad + 1 × 200ml buttermilk,No
+111,Pomegranate + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,343,11.7,61.0,6.2,5.2,Low,7,Yes,Yes,100g pomegranate arils + 150g oats upma + Low,Yes
+61,Grilled Chicken + Brown Rice + Curd + Salad,Lunch,Non-Veg,Balanced,"Toning,Yoga",550,41.4,50.0,16.0,5.7,Low,30,Yes,Yes,1 × 150g grilled chicken + 1.5 × 100g brown rice + 1 × 100g curd + 1 × 100g salad,Yes
+1,Grilled Chicken + Brown Rice + Salad,Dinner,Non-Veg,Deficit,"Weight Loss,Yoga",454,37.1,38.0,12.0,5.2,Low,34,Yes,Yes,1 × 150g grilled chicken + 1.2 × 100g brown rice + 1 × 100g salad,No
+69,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,29,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,Yes
+111,Pomegranate + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,343,11.7,61.0,6.2,5.2,Low,7,Yes,Yes,100g pomegranate arils + 150g oats upma + Low,Yes
+12,Chicken Soup + Salad,Snack,Non-Veg,Balanced,"Toning,Yoga",190,15.5,10.0,9.0,3.0,Low,20,Yes,Yes,0.5 × 150g chicken curry + 1 × 100g salad,Yes
+74,Khichdi + Salad + Buttermilk,Lunch,Veg,Deficit,"Weight Loss,Yoga",480,17.0,69.0,12.0,9.0,Low,24,Yes,Yes,1 × 250g khichdi + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+106,Pomegranate + Idli + Sambar + Coffee,Breakfast,Veg,Balanced,Toning,373,11.7,68.0,5.2,5.2,Medium,6,Yes,Yes,100g pomegranate arils + 2 idlis (100g) + 150g sambar + Medium,No
+36,Upma + Coconut Water,Breakfast,Veg,Deficit,"Weight Loss,Yoga",315,6.0,56.0,8.0,2.0,Medium,15,No,Yes,1 × 150g upma + 1 × 200ml coconut water,Yes
+58,Idli Sambar + Chutney + Filter Coffee,Breakfast,Veg,Deficit,"Weight Loss,Yoga",350,12.0,56.0,8.0,5.0,Low,22,Yes,Yes,1 × 2 idlis (100g) + 1 × 150g sambar + 1 × 30g chutney + 1 × 150ml filter coffee,Yes
+118,Apple + Idli + Sambar + Chai,Breakfast,Veg,Balanced,Toning,332,10.3,63.0,5.2,6.4,Low,10,Yes,Yes,1 apple (100g) + 2 idlis (100g) + 150g sambar + Medium,No
+117,Banana + Salad + Buttermilk,Snack,Veg,Deficit,Weight Loss,220,6.0,41.0,3.3,5.6,Low,12,Yes,Yes,1 banana (100g) + 100g salad + Low,Yes
+81,Besan Chilla + Chutney + Chaas,Breakfast,Veg,Balanced,"Toning,Yoga",400,17.0,40.0,14.0,6.0,Low,29,Yes,Yes,1 × 2 besan chillas (150g) + 1 × 30g chutney + 1 × 200ml chaas,Yes
+88,Moong Chilla + Curd,Breakfast,Veg,Deficit,"Weight Loss,Yoga",310,17.5,30.0,11.0,6.0,Low,27,Yes,Yes,1 × 2 moong chillas (150g) + 1 × 100g curd,Yes
+92,Rajma + Jeera Rice + Salad + Chaas,Lunch,Veg,Balanced,"Toning,Yoga",550,20.8,90.0,10.0,11.8,Medium,33,Yes,Yes,1 × 150g rajma + 1.5 × 100g jeera rice + 1 × 100g salad + 1 × 200ml chaas,No
+16,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,23,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+21,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,14,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,Yes
+49,Chicken Soup + Salad,Snack,Non-Veg,Balanced,"Toning,Yoga",190,15.5,10.0,9.0,3.0,Low,16,Yes,Yes,0.5 × 150g chicken curry + 1 × 100g salad,No
+33,Paratha + Curd + Chai,Breakfast,Veg,Deficit,"Weight Loss,Yoga",320,9.0,40.0,13.0,3.0,Medium,17,No,Yes,1 × 1 paratha (80g) + 1 × 100g curd + 1 × 150ml masala chai,No
+113,Banana + Sprouts Chaat + Buttermilk,Snack,Veg,Balanced,Weight Loss,280,12.0,51.0,4.3,4.6,Low,15,Yes,Yes,1 banana (100g) + 100g sprouts chaat + Low,No
+45,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,20,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,No
+119,Watermelon + Poha + Chaas,Breakfast,Veg,Balanced,Toning,310,9.0,55.0,5.2,2.6,Medium,5,Yes,Yes,200g watermelon + 150g poha + Low,Yes
+70,Dosa + Sambar + Chutney,Breakfast,Veg,Balanced,"Toning,Yoga",360,10.0,51.0,12.0,5.0,Medium,30,Yes,Yes,1 × 1 dosa (120g) + 1 × 150g sambar + 1 × 30g chutney,No
+38,Dosa + Sambar + Chutney,Breakfast,Veg,Balanced,"Toning,Yoga",360,10.0,51.0,12.0,5.0,Medium,26,Yes,Yes,1 × 1 dosa (120g) + 1 × 150g sambar + 1 × 30g chutney,Yes
+5,Millet Rotis + Palak Paneer + Salad,Dinner,Veg,Balanced,"Toning,Yoga",550,24.0,64.0,21.0,12.0,Medium,20,Yes,Yes,2 × 1 millet roti (50g) + 1 × 150g palak paneer + 1 × 100g salad,No
+77,Moong Chilla + Curd,Breakfast,Veg,Deficit,"Weight Loss,Yoga",310,17.5,30.0,11.0,6.0,Low,25,Yes,Yes,1 × 2 moong chillas (150g) + 1 × 100g curd,Yes
+111,Pomegranate + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,343,11.7,61.0,6.2,5.2,Low,7,Yes,Yes,100g pomegranate arils + 150g oats upma + Low,Yes
+31,Chicken Curry + 2 Rotis + Salad + Chaas,Lunch,Non-Veg,Balanced,"Toning,Yoga",650,38.0,58.0,26.0,7.0,Medium,34,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,No
+109,Banana + Oats Upma + Lime Water,Breakfast,Veg,Balanced,Toning,310,8.0,65.0,4.3,6.6,Low,6,Yes,Yes,1 banana (100g) + 150g oats upma + Low,No
+74,Khichdi + Salad + Buttermilk,Lunch,Veg,Deficit,"Weight Loss,Yoga",480,17.0,69.0,12.0,9.0,Low,24,Yes,Yes,1 × 250g khichdi + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+72,Oats Upma + Banana + Green Tea,Breakfast,Veg,Deficit,"Weight Loss,Yoga",321,8.1,61.0,5.0,8.6,Medium,13,Yes,Yes,1 × 150g oats upma + 1 × 100g banana + 1 × 150ml green tea,Yes
+105,Apple + Idli + Sambar + Chai,Breakfast,Veg,Balanced,Toning,332,10.3,63.0,5.2,6.4,Low,14,Yes,Yes,1 apple (100g) + 2 idlis (100g) + 150g sambar + Medium,Yes
+76,Boiled Eggs + Lime Water,Snack,Non-Veg,Deficit,"Weight Loss,Yoga",174,9.8,8.0,11.0,0.0,Low,19,Yes,Yes,0.7 × 2 eggs bhurji (100g) + 1 × 200ml fresh lime water,Yes
+107,Watermelon + Oats Upma + Chai,Breakfast,Veg,Balanced,Toning,300,10.0,56.0,6.2,4.6,Low,9,Yes,Yes,200g watermelon + 150g oats upma + Medium,Yes
+67,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,30,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,No
+48,Grilled Chicken + Brown Rice + Curd + Salad,Lunch,Non-Veg,Balanced,"Toning,Yoga",550,41.4,50.0,16.0,5.7,Low,18,Yes,Yes,1 × 150g grilled chicken + 1.5 × 100g brown rice + 1 × 100g curd + 1 × 100g salad,No
+53,Paneer Curry + 2 Rotis + Salad,Dinner,Veg,Balanced,"Toning,Yoga",610,26.0,58.0,29.0,8.0,Medium,23,No,Yes,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad,No
+116,Watermelon + Salad + Chaas,Snack,Veg,Deficit,Weight Loss,180,6.0,32.0,2.2,3.6,Low,16,Yes,Yes,200g watermelon + 100g salad + Low,Yes
+36,Upma + Coconut Water,Breakfast,Veg,Deficit,"Weight Loss,Yoga",315,6.0,56.0,8.0,2.0,Medium,15,No,Yes,1 × 150g upma + 1 × 200ml coconut water,Yes
+91,Paneer Curry + 2 Rotis + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",690,29.0,64.0,32.0,8.0,Medium,19,No,No,1 × 150g paneer curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,Yes
+115,Apple + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,312,10.3,56.0,6.2,6.4,Low,5,Yes,Yes,1 apple (100g) + 150g oats upma + Low,No
+66,Egg Curry + Rice + Salad + Buttermilk,Lunch,Non-Veg,Balanced,"Toning,Yoga",575,24.8,62.0,22.0,3.8,Medium,17,Yes,Yes,1 × 2 eggs curry (150g) + 1.5 × 100g steamed rice + 1 × 100g salad + 1 × 200ml buttermilk,No
+46,Boiled Eggs + Lime Water,Snack,Non-Veg,Deficit,"Weight Loss,Yoga",174,9.8,8.0,11.0,0.0,Low,27,Yes,Yes,0.7 × 2 eggs bhurji (100g) + 1 × 200ml fresh lime water,No
+60,Egg Curry + Rice + Salad + Buttermilk,Lunch,Non-Veg,Balanced,"Toning,Yoga",575,24.8,62.0,22.0,3.8,Medium,16,Yes,Yes,1 × 2 eggs curry (150g) + 1.5 × 100g steamed rice + 1 × 100g salad + 1 × 200ml buttermilk,No
+63,Egg Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",540,24.0,54.0,23.0,7.0,Medium,18,No,Yes,1 × 2 eggs curry (150g) + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+25,Roasted Chana + Chai,Snack,Veg,Balanced,"Toning,Yoga",220,10.5,32.0,4.0,8.0,Medium,12,Yes,Yes,1 × 40g roasted chana + 1 × 150ml masala chai,No
+38,Dosa + Sambar + Chutney,Breakfast,Veg,Balanced,"Toning,Yoga",360,10.0,51.0,12.0,5.0,Medium,26,Yes,Yes,1 × 1 dosa (120g) + 1 × 150g sambar + 1 × 30g chutney,Yes
+15,Veg Pulao + Raita,Dinner,Veg,Deficit,"Weight Loss,Yoga",368,9.4,51.0,11.0,2.7,Medium,13,Yes,Yes,0.9 × 200g veg pulao + 1 × 100g raita,No
+10,Khichdi + Curd + Salad,Dinner,Veg,Deficit,"Weight Loss,Yoga",425,16.3,62.0,11.0,8.4,Low,26,Yes,Yes,0.9 × 250g khichdi + 1 × 100g curd + 1 × 100g salad,Yes
+115,Apple + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,312,10.3,56.0,6.2,6.4,Low,5,Yes,Yes,1 apple (100g) + 150g oats upma + Low,No
+63,Egg Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",540,24.0,54.0,23.0,7.0,Medium,18,No,Yes,1 × 2 eggs curry (150g) + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+111,Pomegranate + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,343,11.7,61.0,6.2,5.2,Low,7,Yes,Yes,100g pomegranate arils + 150g oats upma + Low,Yes
+31,Chicken Curry + 2 Rotis + Salad + Chaas,Lunch,Non-Veg,Balanced,"Toning,Yoga",650,38.0,58.0,26.0,7.0,Medium,34,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml chaas,No
+14,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,21,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+106,Pomegranate + Idli + Sambar + Coffee,Breakfast,Veg,Balanced,Toning,373,11.7,68.0,5.2,5.2,Medium,6,Yes,Yes,100g pomegranate arils + 2 idlis (100g) + 150g sambar + Medium,No
+79,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,21,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+110,Watermelon + Roasted Chana + Chai,Snack,Veg,Balanced,Toning,300,12.0,54.0,7.2,8.6,Low,9,Yes,Yes,200g watermelon + 50g roasted chana + Medium,Yes
+117,Banana + Salad + Buttermilk,Snack,Veg,Deficit,Weight Loss,220,6.0,41.0,3.3,5.6,Low,12,Yes,Yes,1 banana (100g) + 100g salad + Low,Yes
+78,Fruit Bowl + Buttermilk,Snack,Veg,Deficit,"Weight Loss,Yoga",132,3.3,20.0,3.0,2.4,Medium,32,Yes,Yes,1 × 100g apple + 1 × 200ml buttermilk,No
+118,Apple + Idli + Sambar + Chai,Breakfast,Veg,Balanced,Toning,332,10.3,63.0,5.2,6.4,Low,10,Yes,Yes,1 apple (100g) + 2 idlis (100g) + 150g sambar + Medium,No
+115,Apple + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,312,10.3,56.0,6.2,6.4,Low,5,Yes,Yes,1 apple (100g) + 150g oats upma + Low,No
+3,Khichdi + Curd + Salad,Dinner,Veg,Deficit,"Weight Loss,Yoga",425,16.3,62.0,11.0,8.4,Low,18,Yes,Yes,0.9 × 250g khichdi + 1 × 100g curd + 1 × 100g salad,No
+38,Dosa + Sambar + Chutney,Breakfast,Veg,Balanced,"Toning,Yoga",360,10.0,51.0,12.0,5.0,Medium,26,Yes,Yes,1 × 1 dosa (120g) + 1 × 150g sambar + 1 × 30g chutney,Yes
+44,Millet Rotis + Dal + Mix Veg + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",660,22.0,94.0,19.0,17.0,Medium,10,Yes,No,2 × 1 millet roti (50g) + 1 × 150g dal + 1 × 150g mixed veg sabzi + 1 × 200ml chaas,Yes
+8,Dhokla + Chutney + Coffee,Snack,Veg,Balanced,"Toning,Yoga",260,9.0,41.0,6.0,3.0,Low,10,No,Yes,1 × 100g dhokla + 1 × 30g chutney + 1 × 150ml filter coffee,No
+21,2 Rotis + Dal + Bhindi + Salad + Chaas,Lunch,Veg,Surplus,"Weight Gain,Toning",700,23.0,93.0,24.0,18.0,Medium,14,No,No,2 × 1 roti (50g) + 1 × 150g dal + 1 × 150g bhindi sabzi + 1 × 100g salad + 1 × 200ml chaas,Yes
+74,Khichdi + Salad + Buttermilk,Lunch,Veg,Deficit,"Weight Loss,Yoga",480,17.0,69.0,12.0,9.0,Low,24,Yes,Yes,1 × 250g khichdi + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+8,Dhokla + Chutney + Coffee,Snack,Veg,Balanced,"Toning,Yoga",260,9.0,41.0,6.0,3.0,Low,10,No,Yes,1 × 100g dhokla + 1 × 30g chutney + 1 × 150ml filter coffee,No
+68,Grilled Chicken + Brown Rice + Salad,Dinner,Non-Veg,Deficit,"Weight Loss,Yoga",454,37.1,38.0,12.0,5.2,Low,18,Yes,Yes,1 × 150g grilled chicken + 1.2 × 100g brown rice + 1 × 100g salad,No
+58,Idli Sambar + Chutney + Filter Coffee,Breakfast,Veg,Deficit,"Weight Loss,Yoga",350,12.0,56.0,8.0,5.0,Low,22,Yes,Yes,1 × 2 idlis (100g) + 1 × 150g sambar + 1 × 30g chutney + 1 × 150ml filter coffee,Yes
+113,Banana + Sprouts Chaat + Buttermilk,Snack,Veg,Balanced,Weight Loss,280,12.0,51.0,4.3,4.6,Low,15,Yes,Yes,1 banana (100g) + 100g sprouts chaat + Low,No
+81,Besan Chilla + Chutney + Chaas,Breakfast,Veg,Balanced,"Toning,Yoga",400,17.0,40.0,14.0,6.0,Low,29,Yes,Yes,1 × 2 besan chillas (150g) + 1 × 30g chutney + 1 × 200ml chaas,Yes
+111,Pomegranate + Oats Upma + Chaas,Breakfast,Veg,Balanced,Toning,343,11.7,61.0,6.2,5.2,Low,7,Yes,Yes,100g pomegranate arils + 150g oats upma + Low,Yes
+14,Chole + 2 Rotis + Salad + Buttermilk,Lunch,Veg,Balanced,"Toning,Yoga",610,23.0,82.0,18.0,14.0,Medium,21,No,Yes,1 × 150g chole + 2 × 1 roti (50g) + 1 × 100g salad + 1 × 200ml buttermilk,Yes
+57,Egg Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",540,24.0,54.0,23.0,7.0,Medium,13,No,Yes,1 × 2 eggs curry (150g) + 2 × 1 roti (50g) + 1 × 100g salad,Yes
+82,Khichdi + Salad + Buttermilk,Lunch,Veg,Deficit,"Weight Loss,Yoga",480,17.0,69.0,12.0,9.0,Low,13,Yes,Yes,1 × 250g khichdi + 1 × 100g salad + 1 × 200ml buttermilk,No
+120,Watermelon + Sprouts Chaat + Lime Water,Snack,Veg,Deficit,Weight Loss,200,9.0,42.0,1.2,2.6,Low,17,Yes,Yes,200g watermelon + 100g sprouts chaat + Low,No
+86,Chicken Curry + 2 Rotis + Salad,Dinner,Non-Veg,Balanced,"Toning,Yoga",570,35.0,52.0,23.0,7.0,Medium,12,No,Yes,1 × 150g chicken curry + 2 × 1 roti (50g) + 1 × 100g salad,No
+201,Apple Almond Porridge,Lunch,Non-Veg,Balanced,"Weight Loss,Weight Gain",333,36.7,48.0,17.5,2.8,High,25,No,Yes,1 × Apple Almond Porridge + 1 × Lassi,Yes
+202,Curd Rice + Fruit Bowl,Breakfast,Non-Veg,Balanced,"Weight Loss,Weight Gain",489,25.4,73.4,21.4,12.4,High,11,No,No,1 × Curd Rice + Fruit Bowl + 1 × Green Tea,No
+203,Multigrain Paratha + Dahi,Breakfast,Veg,Balanced,Weight Loss,252,24.4,50.3,16.3,11.7,Medium,9,No,No,1 × Multigrain Paratha + Dahi + 1 × Green Tea,Yes
+204,Mixed Dal Dosa,Breakfast,Non-Veg,Deficit,"Toning,Weight Loss",592,30.1,75.6,21.4,8.1,High,21,No,No,1 × Mixed Dal Dosa + 1 × w/ Curd,No
+205,Sweet Potato Chaat,Lunch,Veg,Balanced,Yoga,356,35.8,52.8,21.5,8.2,Low,14,Yes,Yes,1 × Sweet Potato Chaat + 1 × Salad,No
+206,Moong Dal Cheela,Snack,Veg,Balanced,Toning,231,11.9,57.1,10.6,9.6,Low,18,Yes,Yes,1 × Moong Dal Cheela + 1 × Salad,Yes
+207,Egg White Omelette + Sprouts,Lunch,Non-Veg,Balanced,Yoga,580,7.5,56.2,7.9,12.1,Medium,26,No,Yes,1 × Egg White Omelette + Sprouts + 1 × Green Tea,Yes
+208,Soya Chaap Curry + Rice,Dinner,Veg,Surplus,"Weight Loss,Yoga",412,12.2,41.0,21.8,12.7,Medium,27,Yes,Yes,1 × Soya Chaap Curry + Rice + 1 × Fruit Bowl,Yes
+209,Grilled Fish + Quinoa,Lunch,Veg,Surplus,"Toning,Yoga",312,29.5,46.2,20.1,8.7,Medium,22,Yes,No,1 × Grilled Fish + Quinoa + 1 × Lassi,Yes
+210,Egg Tomato Bhurji,Snack,Veg,Surplus,Yoga,595,7.3,60.1,13.6,4.1,Medium,32,No,Yes,1 × Egg Tomato Bhurji + 1 × Green Tea,No
+211,Soya Chaap Curry + Rice,Snack,Non-Veg,Surplus,Weight Gain,631,28.5,35.9,2.6,9.4,Low,20,Yes,No,1 × Soya Chaap Curry + Rice + 1 × Fruit Bowl,Yes
+212,Quinoa Veg Salad,Snack,Veg,Balanced,"Yoga,Weight Loss",423,12.7,26.9,7.1,8.7,Low,21,No,Yes,1 × Quinoa Veg Salad + 1 × Soup,Yes
+213,Pesarattu + Peanut Chutney,Snack,Non-Veg,Balanced,Toning,521,29.2,74.1,21.3,13.3,Medium,12,No,No,1 × Pesarattu + Peanut Chutney + 1 × Soup,Yes
+214,Chana Salad,Dinner,Non-Veg,Balanced,"Weight Loss,Yoga",363,35.7,70.8,13.3,6.0,Low,23,No,No,1 × Chana Salad + 1 × Herbal Tea,No
+215,Sweet Potato Chaat,Breakfast,Veg,Deficit,Toning,437,21.6,60.1,23.2,4.3,Medium,26,No,Yes,1 × Sweet Potato Chaat + 1 × Soup,No
+216,Egg White Omelette + Sprouts,Dinner,Non-Veg,Deficit,Yoga,499,29.1,41.4,9.2,12.4,Low,26,No,Yes,1 × Egg White Omelette + Sprouts + 1 × Herbal Tea,No
+217,Nutri Nuggets Stir Fry,Dinner,Non-Veg,Surplus,Weight Loss,233,11.7,53.6,12.0,7.9,Medium,16,No,Yes,1 × Nutri Nuggets Stir Fry + 1 × Salad,No
+218,Pesarattu + Peanut Chutney,Breakfast,Veg,Deficit,Toning,343,7.7,32.8,6.4,4.6,Medium,14,No,No,1 × Pesarattu + Peanut Chutney + 1 × Fruit Bowl,Yes
+219,Apple Almond Porridge,Breakfast,Veg,Balanced,"Toning,Weight Loss",228,9.4,53.7,20.7,13.4,Medium,20,Yes,No,1 × Apple Almond Porridge + 1 × Green Tea,No
+220,Chickpea + Avocado Toast,Dinner,Non-Veg,Balanced,"Weight Loss,Weight Gain",488,32.6,65.3,3.5,13.5,Medium,23,No,No,1 × Chickpea + Avocado Toast + 1 × Lassi,Yes
+221,Vegetable Stew + Brown Bread,Dinner,Veg,Surplus,"Toning,Weight Gain",541,31.5,33.0,3.2,11.2,Medium,16,Yes,No,1 × Vegetable Stew + Brown Bread + 1 × Coffee,Yes
+222,Spinach Corn Rotis,Dinner,Non-Veg,Balanced,"Toning,Yoga",211,19.9,60.4,2.7,12.5,Low,20,Yes,No,1 × Spinach Corn Rotis + 1 × Green Tea,Yes
+223,Grilled Fish + Quinoa,Breakfast,Non-Veg,Surplus,Weight Loss,335,26.4,36.8,19.4,5.5,Low,27,No,No,1 × Grilled Fish + Quinoa + 1 × Fruit Bowl,No
+224,Pesarattu + Peanut Chutney,Lunch,Non-Veg,Deficit,Weight Loss,414,26.1,46.7,15.2,6.9,High,20,No,No,1 × Pesarattu + Peanut Chutney + 1 × Chutney,No
+225,Quinoa Veg Salad,Snack,Non-Veg,Deficit,Toning,506,24.4,29.8,10.1,10.3,Low,23,Yes,No,1 × Quinoa Veg Salad + 1 × Herbal Tea,Yes
+226,Tandoori Chicken Salad,Snack,Non-Veg,Deficit,"Toning,Weight Gain",312,16.7,74.1,9.3,6.6,Medium,19,Yes,No,1 × Tandoori Chicken Salad + 1 × Chutney,No
+227,Rajma Rice,Breakfast,Veg,Surplus,"Weight Loss,Weight Gain",508,23.2,74.4,4.6,9.2,Low,28,No,Yes,1 × Rajma Rice + 1 × Soup,Yes
+228,Sprouts Poha,Breakfast,Veg,Deficit,Weight Loss,634,29.8,30.2,13.3,6.6,High,8,No,No,1 × Sprouts Poha + 1 × Coffee,Yes
+229,Grilled Fish + Quinoa,Breakfast,Veg,Surplus,Yoga,536,15.1,40.5,8.1,5.7,High,25,No,No,1 × Grilled Fish + Quinoa + 1 × Fruit Bowl,Yes
+230,Vegetable Stew + Brown Bread,Breakfast,Non-Veg,Surplus,"Weight Gain,Toning",441,11.7,62.3,5.2,3.1,High,32,No,Yes,1 × Vegetable Stew + Brown Bread + 1 × Green Tea,No
+231,Apple Almond Porridge,Dinner,Non-Veg,Deficit,"Yoga,Weight Gain",637,15.9,72.7,7.6,7.1,Low,15,Yes,No,1 × Apple Almond Porridge + 1 × Coffee,No
+232,Multigrain Paratha + Dahi,Breakfast,Veg,Surplus,"Weight Gain,Weight Loss",379,17.5,34.6,10.0,8.5,High,20,Yes,No,1 × Multigrain Paratha + Dahi + 1 × Green Tea,Yes
+233,Chana Salad,Breakfast,Non-Veg,Balanced,"Weight Gain,Toning",421,35.7,68.9,5.8,11.1,Medium,11,No,Yes,1 × Chana Salad + 1 × Salad,Yes
+234,Oats Upma + Vegetables,Snack,Non-Veg,Balanced,"Weight Loss,Yoga",424,26.9,60.3,11.9,5.4,High,14,Yes,Yes,1 × Oats Upma + Vegetables + 1 × Soup,No
+235,Tandoori Chicken Salad,Lunch,Non-Veg,Deficit,"Weight Gain,Weight Loss",659,24.9,39.2,10.8,4.2,Low,28,No,Yes,1 × Tandoori Chicken Salad + 1 × w/ Curd,No
+236,Mixed Dal Dosa,Lunch,Veg,Deficit,Weight Loss,511,14.6,60.2,7.1,5.8,Medium,18,No,No,1 × Mixed Dal Dosa + 1 × Herbal Tea,Yes
+237,Oats Upma + Vegetables,Dinner,Non-Veg,Balanced,"Weight Loss,Yoga",318,30.2,34.1,11.8,5.9,Low,27,Yes,No,1 × Oats Upma + Vegetables + 1 × Lassi,No
+238,Ragi Idli + Sambar,Snack,Veg,Surplus,Yoga,493,18.0,28.5,4.5,12.2,High,21,Yes,No,1 × Ragi Idli + Sambar + 1 × Herbal Tea,No
+239,Lentil Roll,Snack,Non-Veg,Balanced,"Yoga,Weight Gain",251,20.1,70.4,13.0,9.7,High,30,Yes,No,1 × Lentil Roll + 1 × Soup,Yes
+240,Sprouts Poha,Dinner,Non-Veg,Surplus,Weight Gain,285,8.2,37.0,6.0,8.8,Low,29,Yes,No,1 × Sprouts Poha + 1 × w/ Curd,Yes
+241,Nutri Nuggets Stir Fry,Breakfast,Non-Veg,Balanced,Yoga,482,9.8,61.4,23.5,8.6,High,24,No,No,1 × Nutri Nuggets Stir Fry + 1 × Salad,No
+242,Chana Salad,Breakfast,Non-Veg,Deficit,Weight Gain,314,35.6,70.5,5.5,6.9,High,18,Yes,No,1 × Chana Salad + 1 × Coffee,Yes
+243,Oats Upma + Vegetables,Breakfast,Non-Veg,Surplus,Weight Gain,580,24.6,78.6,16.5,13.0,High,10,Yes,Yes,1 × Oats Upma + Vegetables + 1 × Lassi,Yes
+244,Bottle Gourd Curry + Rice,Lunch,Veg,Surplus,Weight Gain,302,34.1,66.8,20.7,6.6,Low,14,Yes,No,1 × Bottle Gourd Curry + Rice + 1 × Coffee,No
+245,Ragi Idli + Sambar,Lunch,Veg,Balanced,Weight Gain,236,26.6,75.2,14.9,6.9,Medium,10,No,Yes,1 × Ragi Idli + Sambar + 1 × Coffee,No
+246,Mixed Dal Dosa,Lunch,Non-Veg,Balanced,Yoga,367,27.7,65.8,11.3,4.2,Medium,13,No,No,1 × Mixed Dal Dosa + 1 × Soup,Yes
+247,Lentil Roll,Dinner,Veg,Surplus,Weight Loss,568,12.1,35.9,14.7,4.2,Low,15,No,No,1 × Lentil Roll + 1 × Coffee,No
+248,Spinach Corn Rotis,Dinner,Non-Veg,Deficit,Weight Gain,266,7.4,58.0,9.6,5.6,Low,27,Yes,Yes,1 × Spinach Corn Rotis + 1 × Herbal Tea,No
+249,Chana Salad,Snack,Non-Veg,Deficit,Weight Loss,280,10.5,35.0,11.5,12.5,High,23,No,No,1 × Chana Salad + 1 × Lassi,No
+250,Carrot Beet Pancake,Lunch,Veg,Deficit,Weight Loss,658,28.5,44.4,20.8,11.1,High,29,Yes,No,1 × Carrot Beet Pancake + 1 × Herbal Tea,Yes
+251,Curd Rice + Fruit Bowl,Breakfast,Veg,Balanced,Toning,445,25.4,39.3,23.0,13.5,Low,10,Yes,No,1 × Curd Rice + Fruit Bowl + 1 × Lassi,No
+252,Nutri Nuggets Stir Fry,Breakfast,Non-Veg,Deficit,"Yoga,Weight Loss",233,12.9,29.4,15.5,5.7,High,14,No,No,1 × Nutri Nuggets Stir Fry + 1 × Lassi,Yes
+253,Nutri Nuggets Stir Fry,Breakfast,Non-Veg,Deficit,"Toning,Yoga",333,33.3,36.8,21.9,4.4,Low,26,No,No,1 × Nutri Nuggets Stir Fry + 1 × Dry Fruits,No
+254,Grilled Fish + Quinoa,Dinner,Non-Veg,Balanced,Yoga,472,26.9,49.6,16.8,10.0,Medium,20,No,No,1 × Grilled Fish + Quinoa + 1 × Salad,No
+255,Masoor Dal Curry,Lunch,Non-Veg,Surplus,"Yoga,Toning",321,34.3,65.2,4.5,3.9,High,8,No,Yes,1 × Masoor Dal Curry + 1 × Green Tea,Yes
+256,Chana Salad,Dinner,Non-Veg,Balanced,"Toning,Weight Loss",447,12.9,43.7,19.6,3.8,Low,29,No,No,1 × Chana Salad + 1 × Soup,No
+257,Vegetable Stew + Brown Bread,Snack,Veg,Deficit,"Weight Gain,Toning",668,26.9,40.1,12.7,5.7,Medium,8,Yes,Yes,1 × Vegetable Stew + Brown Bread + 1 × Herbal Tea,Yes
+258,Chicken Broccoli Salad,Breakfast,Veg,Deficit,"Yoga,Toning",544,19.2,74.8,21.8,7.9,High,12,Yes,Yes,1 × Chicken Broccoli Salad + 1 × Soup,Yes
+259,Apple Almond Porridge,Lunch,Veg,Deficit,Weight Gain,611,23.8,70.7,7.4,3.5,High,14,Yes,Yes,1 × Apple Almond Porridge + 1 × Coffee,No
+260,Bottle Gourd Curry + Rice,Snack,Veg,Surplus,"Weight Loss,Weight Gain",323,26.1,61.0,14.9,2.7,High,20,Yes,Yes,1 × Bottle Gourd Curry + Rice + 1 × Fruit Bowl,Yes
+261,Egg White Omelette + Sprouts,Breakfast,Non-Veg,Balanced,"Toning,Weight Loss",284,11.5,52.1,6.7,8.6,Medium,24,Yes,No,1 × Egg White Omelette + Sprouts + 1 × Coffee,No
+262,Carrot Beet Pancake,Dinner,Veg,Surplus,Weight Gain,217,22.9,45.7,13.8,8.3,Medium,8,No,Yes,1 × Carrot Beet Pancake + 1 × Herbal Tea,Yes
+263,Rajma Rice,Lunch,Veg,Balanced,"Toning,Yoga",424,31.8,33.7,14.1,13.3,Low,22,Yes,No,1 × Rajma Rice + 1 × Herbal Tea,Yes
+264,Lentil Roll,Breakfast,Veg,Balanced,Yoga,629,14.1,48.2,13.0,11.1,Low,14,No,Yes,1 × Lentil Roll + 1 × Fruit Bowl,No
+265,Pesarattu + Peanut Chutney,Breakfast,Veg,Surplus,"Weight Loss,Weight Gain",297,26.4,43.1,11.1,7.1,Medium,27,No,Yes,1 × Pesarattu + Peanut Chutney + 1 × Lassi,No
+266,Palak Corn Sandwich,Dinner,Veg,Balanced,Weight Gain,210,15.1,54.1,21.4,2.7,Medium,29,No,No,1 × Palak Corn Sandwich + 1 × Chutney,Yes
+267,Quinoa Veg Salad,Snack,Veg,Deficit,Toning,458,32.0,68.3,10.5,4.8,High,11,Yes,No,1 × Quinoa Veg Salad + 1 × Green Tea,No
+268,Vegetable Stew + Brown Bread,Dinner,Non-Veg,Surplus,Weight Gain,333,8.7,62.3,22.8,5.5,High,27,No,Yes,1 × Vegetable Stew + Brown Bread + 1 × Salad,No
+269,Tandoori Chicken Salad,Breakfast,Non-Veg,Surplus,"Toning,Yoga",442,36.5,42.8,13.0,8.5,Medium,22,Yes,No,1 × Tandoori Chicken Salad + 1 × Lassi,Yes
+270,Sweet Potato Chaat,Snack,Veg,Surplus,Yoga,513,19.0,26.1,10.5,8.7,Low,27,Yes,No,1 × Sweet Potato Chaat + 1 × Herbal Tea,No
+271,Paneer Tikka Wrap,Snack,Non-Veg,Balanced,Weight Loss,261,11.4,65.3,5.3,13.4,Low,23,Yes,No,1 × Paneer Tikka Wrap + 1 × w/ Curd,Yes
+272,Quinoa Veg Salad,Snack,Non-Veg,Deficit,Yoga,328,27.7,68.5,4.8,12.4,Medium,16,No,No,1 × Quinoa Veg Salad + 1 × Chutney,No
+273,Mixed Dal Dosa,Lunch,Veg,Deficit,Weight Gain,369,23.2,57.9,18.1,9.9,High,12,No,No,1 × Mixed Dal Dosa + 1 × Coffee,Yes
+274,Nutri Nuggets Stir Fry,Dinner,Non-Veg,Surplus,"Toning,Weight Gain",482,24.1,74.2,20.7,10.5,High,13,Yes,Yes,1 × Nutri Nuggets Stir Fry + 1 × Salad,Yes
+275,Vegetable Stew + Brown Bread,Breakfast,Non-Veg,Surplus,"Weight Gain,Yoga",611,17.0,72.3,18.8,5.9,High,20,Yes,Yes,1 × Vegetable Stew + Brown Bread + 1 × Fruit Bowl,Yes
+276,Spinach Corn Rotis,Dinner,Non-Veg,Deficit,Yoga,484,9.1,24.7,22.9,5.1,High,24,Yes,No,1 × Spinach Corn Rotis + 1 × Dry Fruits,Yes
+277,Ragi Idli + Sambar,Lunch,Veg,Balanced,Weight Gain,315,16.9,44.5,21.7,5.2,Medium,32,Yes,Yes,1 × Ragi Idli + Sambar + 1 × Chutney,No
+278,Spinach Corn Rotis,Breakfast,Veg,Balanced,Yoga,489,11.1,51.9,5.3,2.5,High,29,No,No,1 × Spinach Corn Rotis + 1 × Dry Fruits,Yes
+279,Chana Salad,Breakfast,Veg,Surplus,Weight Gain,562,26.7,62.8,3.6,3.5,Low,17,No,Yes,1 × Chana Salad + 1 × Chutney,No
+280,Egg Tomato Bhurji,Breakfast,Veg,Balanced,"Toning,Weight Loss",585,16.3,33.3,14.2,11.5,Low,31,Yes,No,1 × Egg Tomato Bhurji + 1 × Green Tea,No
+281,Bottle Gourd Curry + Rice,Lunch,Non-Veg,Surplus,"Weight Gain,Weight Loss",372,29.6,48.0,9.7,7.4,Medium,9,No,Yes,1 × Bottle Gourd Curry + Rice + 1 × w/ Curd,Yes
+282,Masoor Dal Curry,Dinner,Veg,Deficit,Yoga,369,16.2,71.6,13.1,13.6,Low,32,No,No,1 × Masoor Dal Curry + 1 × Fruit Bowl,Yes
+283,Paneer Tikka Wrap,Snack,Non-Veg,Deficit,Yoga,513,17.1,52.7,16.6,5.0,High,14,Yes,Yes,1 × Paneer Tikka Wrap + 1 × Soup,Yes
+284,Mixed Dal Dosa,Breakfast,Non-Veg,Surplus,"Yoga,Toning",483,10.5,55.2,6.1,10.1,Low,10,Yes,Yes,1 × Mixed Dal Dosa + 1 × Salad,No
+285,Ragi Idli + Sambar,Snack,Veg,Balanced,"Weight Gain,Toning",539,31.4,39.9,23.6,3.3,Medium,10,Yes,No,1 × Ragi Idli + Sambar + 1 × Soup,Yes
+286,Apple Almond Porridge,Lunch,Veg,Deficit,"Weight Gain,Yoga",337,23.1,58.8,7.6,13.3,Low,26,Yes,No,1 × Apple Almond Porridge + 1 × Fruit Bowl,Yes
+287,Palak Corn Sandwich,Dinner,Veg,Surplus,Weight Loss,509,36.9,28.0,8.3,3.5,Medium,29,Yes,No,1 × Palak Corn Sandwich + 1 × Lassi,No
+288,Moong Dal Cheela,Breakfast,Veg,Surplus,Weight Gain,447,14.7,54.1,12.4,10.1,Medium,21,No,No,1 × Moong Dal Cheela + 1 × Green Tea,No
+289,Sweet Potato Chaat,Lunch,Non-Veg,Surplus,"Weight Loss,Toning",501,7.6,35.7,8.5,12.5,Medium,11,No,Yes,1 × Sweet Potato Chaat + 1 × Coffee,Yes
+290,Sprouts Poha,Snack,Non-Veg,Balanced,Yoga,669,15.3,33.3,21.8,7.6,Medium,17,No,No,1 × Sprouts Poha + 1 × Dry Fruits,Yes
+291,Lentil Roll,Dinner,Non-Veg,Deficit,Yoga,476,28.1,73.9,12.5,3.8,Medium,22,Yes,Yes,1 × Lentil Roll + 1 × Fruit Bowl,No
+292,Grilled Fish + Quinoa,Breakfast,Non-Veg,Deficit,Weight Loss,611,13.3,56.6,16.7,6.7,Low,23,No,No,1 × Grilled Fish + Quinoa + 1 × Soup,Yes
+293,Multigrain Paratha + Dahi,Breakfast,Non-Veg,Balanced,Yoga,576,13.2,70.2,6.1,6.6,High,8,Yes,Yes,1 × Multigrain Paratha + Dahi + 1 × Green Tea,No
+294,Apple Almond Porridge,Breakfast,Non-Veg,Surplus,Yoga,666,31.9,24.1,20.7,3.7,High,17,Yes,Yes,1 × Apple Almond Porridge + 1 × Salad,Yes
+295,Mixed Dal Dosa,Dinner,Non-Veg,Deficit,Toning,652,7.7,46.1,21.2,9.2,Medium,23,No,No,1 × Mixed Dal Dosa + 1 × w/ Curd,No
+296,Masoor Dal Curry,Snack,Non-Veg,Deficit,Weight Gain,652,10.6,25.7,19.7,9.7,Low,32,Yes,No,1 × Masoor Dal Curry + 1 × Fruit Bowl,Yes
+297,Sprouts Poha,Snack,Veg,Deficit,Yoga,477,11.4,59.7,20.3,5.6,Low,21,Yes,Yes,1 × Sprouts Poha + 1 × Salad,Yes
+298,Chickpea + Avocado Toast,Dinner,Non-Veg,Balanced,"Yoga,Toning",437,21.7,67.7,12.3,3.5,High,8,No,No,1 × Chickpea + Avocado Toast + 1 × Salad,Yes
+299,Grilled Fish + Quinoa,Dinner,Veg,Balanced,"Toning,Yoga",213,17.7,49.3,5.3,6.7,Low,8,No,Yes,1 × Grilled Fish + Quinoa + 1 × w/ Curd,Yes
+300,Chana Salad,Breakfast,Non-Veg,Deficit,Toning,298,26.0,42.3,19.9,6.0,Medium,22,Yes,No,1 × Chana Salad + 1 × Fruit Bowl,Yes
+301,Chickpea + Avocado Toast,Lunch,Non-Veg,Deficit,Toning,349,16.2,54.9,19.7,4.9,High,10,Yes,Yes,1 × Chickpea + Avocado Toast + 1 × Dry Fruits,Yes
+302,Quinoa Veg Salad,Dinner,Veg,Deficit,"Weight Loss,Weight Gain",229,20.4,75.3,17.9,13.4,Low,19,No,Yes,1 × Quinoa Veg Salad + 1 × Fruit Bowl,No
+303,Quinoa Veg Salad,Breakfast,Veg,Deficit,"Yoga,Weight Gain",569,17.4,40.7,15.1,6.2,High,18,Yes,No,1 × Quinoa Veg Salad + 1 × Dry Fruits,No
+304,Palak Corn Sandwich,Dinner,Veg,Balanced,"Yoga,Toning",469,19.2,37.8,4.4,3.8,Low,11,No,No,1 × Palak Corn Sandwich + 1 × Green Tea,Yes
+305,Mixed Dal Dosa,Breakfast,Non-Veg,Balanced,"Yoga,Weight Gain",393,12.4,33.6,4.9,12.6,High,18,No,No,1 × Mixed Dal Dosa + 1 × Lassi,Yes
+306,Nutri Nuggets Stir Fry,Breakfast,Non-Veg,Balanced,Yoga,456,12.1,61.4,16.6,5.9,High,29,Yes,Yes,1 × Nutri Nuggets Stir Fry + 1 × Fruit Bowl,Yes
+307,Chickpea + Avocado Toast,Dinner,Veg,Surplus,"Weight Loss,Yoga",237,29.2,73.6,15.8,11.9,High,9,Yes,Yes,1 × Chickpea + Avocado Toast + 1 × Green Tea,No
+308,Masoor Dal Curry,Breakfast,Non-Veg,Balanced,Toning,390,16.6,24.7,16.7,11.8,Low,17,Yes,No,1 × Masoor Dal Curry + 1 × Lassi,No
+309,Multigrain Paratha + Dahi,Snack,Veg,Deficit,Toning,484,35.3,76.8,10.8,4.2,Medium,21,Yes,Yes,1 × Multigrain Paratha + Dahi + 1 × Fruit Bowl,Yes
+310,Rajma Rice,Snack,Non-Veg,Deficit,Yoga,216,25.6,70.3,7.2,7.7,Low,18,No,No,1 × Rajma Rice + 1 × Soup,Yes
+311,Chana Salad,Dinner,Veg,Balanced,Yoga,440,14.8,31.8,3.7,6.7,Medium,30,Yes,No,1 × Chana Salad + 1 × Chutney,Yes
+312,Pumpkin Soup,Breakfast,Non-Veg,Surplus,Weight Loss,547,36.0,61.8,8.1,11.0,Medium,25,Yes,No,1 × Pumpkin Soup + 1 × w/ Curd,No
+313,Spinach Corn Rotis,Dinner,Veg,Balanced,Toning,492,14.2,61.6,14.4,4.0,High,17,No,No,1 × Spinach Corn Rotis + 1 × Fruit Bowl,No
+314,Nutri Nuggets Stir Fry,Snack,Non-Veg,Deficit,Toning,635,7.9,62.7,10.5,8.2,Medium,9,Yes,No,1 × Nutri Nuggets Stir Fry + 1 × Chutney,No
+315,Bottle Gourd Curry + Rice,Breakfast,Veg,Deficit,"Weight Loss,Toning",197,10.7,27.8,6.8,10.8,High,13,Yes,No,1 × Bottle Gourd Curry + Rice + 1 × Lassi,No
+316,Quinoa Veg Salad,Snack,Non-Veg,Deficit,"Yoga,Toning",268,33.7,26.1,6.7,5.1,Low,32,No,Yes,1 × Quinoa Veg Salad + 1 × Herbal Tea,Yes
+317,Tandoori Chicken Salad,Breakfast,Veg,Deficit,"Toning,Yoga",510,16.8,43.8,17.2,9.7,High,29,No,No,1 × Tandoori Chicken Salad + 1 × w/ Curd,No
+318,Tandoori Chicken Salad,Dinner,Veg,Deficit,"Yoga,Weight Loss",258,15.7,27.2,5.9,9.9,Medium,29,No,No,1 × Tandoori Chicken Salad + 1 × Dry Fruits,No
+319,Vegetable Stew + Brown Bread,Dinner,Veg,Surplus,"Weight Loss,Weight Gain",389,28.8,78.9,13.9,13.8,Medium,30,Yes,No,1 × Vegetable Stew + Brown Bread + 1 × Chutney,No
+320,Oats Upma + Vegetables,Snack,Non-Veg,Deficit,"Toning,Weight Gain",222,9.8,73.5,5.9,11.4,Medium,29,Yes,Yes,1 × Oats Upma + Vegetables + 1 × Coffee,No
+321,Pesarattu + Peanut Chutney,Dinner,Non-Veg,Balanced,"Yoga,Toning",321,24.6,68.4,13.7,6.6,Medium,25,Yes,Yes,1 × Pesarattu + Peanut Chutney + 1 × Lassi,Yes
+322,Chicken Broccoli Salad,Snack,Non-Veg,Deficit,Yoga,180,36.3,49.1,12.3,6.1,Low,19,Yes,No,1 × Chicken Broccoli Salad + 1 × Dry Fruits,No
+323,Moong Dal Cheela,Snack,Veg,Balanced,"Weight Gain,Yoga",547,32.4,64.1,13.1,4.5,Low,28,Yes,No,1 × Moong Dal Cheela + 1 × Coffee,Yes
+324,Mixed Dal Dosa,Lunch,Veg,Deficit,Toning,598,11.6,49.1,8.3,9.5,High,9,No,No,1 × Mixed Dal Dosa + 1 × Lassi,Yes
+325,Mixed Dal Dosa,Breakfast,Non-Veg,Surplus,Weight Loss,499,11.4,66.2,7.5,10.9,Low,16,No,No,1 × Mixed Dal Dosa + 1 × Salad,No
+326,Multigrain Paratha + Dahi,Lunch,Non-Veg,Surplus,"Toning,Yoga",653,12.2,50.4,18.3,9.6,High,27,Yes,Yes,1 × Multigrain Paratha + Dahi + 1 × Soup,No
+327,Ragi Idli + Sambar,Dinner,Veg,Balanced,Toning,372,16.2,42.0,11.8,11.6,High,31,No,Yes,1 × Ragi Idli + Sambar + 1 × Dry Fruits,Yes
+328,Carrot Beet Pancake,Snack,Veg,Balanced,"Weight Loss,Toning",476,25.2,67.1,8.8,5.2,Medium,31,Yes,Yes,1 × Carrot Beet Pancake + 1 × Coffee,No
+329,Soya Chaap Curry + Rice,Breakfast,Non-Veg,Balanced,"Yoga,Toning",617,19.4,26.2,19.0,10.1,High,27,Yes,No,1 × Soya Chaap Curry + Rice + 1 × Dry Fruits,No
+330,Multigrain Paratha + Dahi,Breakfast,Non-Veg,Balanced,"Yoga,Weight Gain",473,10.5,42.9,8.3,7.3,High,8,Yes,Yes,1 × Multigrain Paratha + Dahi + 1 × Chutney,Yes
+331,Lentil Roll,Breakfast,Veg,Surplus,Yoga,394,34.1,50.6,16.4,11.6,Low,24,No,No,1 × Lentil Roll + 1 × Fruit Bowl,No
+332,Chana Salad,Dinner,Veg,Balanced,"Weight Loss,Toning",658,28.9,33.2,14.1,2.6,Medium,21,Yes,Yes,1 × Chana Salad + 1 × Lassi,Yes
+333,Pumpkin Soup,Breakfast,Non-Veg,Deficit,"Toning,Weight Loss",595,23.9,32.8,11.5,6.6,Medium,32,Yes,No,1 × Pumpkin Soup + 1 × Soup,No
+334,Egg White Omelette + Sprouts,Dinner,Non-Veg,Surplus,Weight Gain,622,36.6,29.4,23.1,6.1,High,27,No,No,1 × Egg White Omelette + Sprouts + 1 × Salad,Yes
+335,Mixed Dal Dosa,Lunch,Non-Veg,Balanced,"Yoga,Toning",611,23.7,68.9,2.6,14.0,High,32,No,No,1 × Mixed Dal Dosa + 1 × Fruit Bowl,Yes
+336,Paneer Tikka Wrap,Snack,Veg,Deficit,Weight Loss,552,16.4,48.3,6.6,13.7,High,23,Yes,No,1 × Paneer Tikka Wrap + 1 × Coffee,Yes
+337,Egg White Omelette + Sprouts,Snack,Veg,Deficit,Toning,551,22.8,40.0,6.8,13.4,High,20,Yes,Yes,1 × Egg White Omelette + Sprouts + 1 × Lassi,Yes
+338,Lentil Roll,Snack,Non-Veg,Surplus,"Yoga,Toning",577,16.6,56.1,18.2,6.5,High,18,Yes,Yes,1 × Lentil Roll + 1 × Green Tea,No
+339,Lentil Roll,Breakfast,Veg,Deficit,"Yoga,Weight Gain",663,19.9,54.9,16.1,4.8,Medium,8,No,Yes,1 × Lentil Roll + 1 × w/ Curd,Yes
+340,Soya Chaap Curry + Rice,Breakfast,Non-Veg,Surplus,"Weight Gain,Weight Loss",275,12.2,26.7,13.8,7.0,Medium,26,No,Yes,1 × Soya Chaap Curry + Rice + 1 × Coffee,Yes
+341,Carrot Beet Pancake,Breakfast,Veg,Balanced,"Weight Loss,Weight Gain",250,21.9,46.7,18.7,6.3,Low,23,No,Yes,1 × Carrot Beet Pancake + 1 × w/ Curd,Yes
+342,Chickpea + Avocado Toast,Snack,Veg,Deficit,Toning,650,14.3,36.4,3.6,13.4,High,18,No,No,1 × Chickpea + Avocado Toast + 1 × Coffee,Yes
+343,Paneer Tikka Wrap,Dinner,Veg,Deficit,Weight Gain,624,18.1,78.2,15.1,4.0,High,17,No,Yes,1 × Paneer Tikka Wrap + 1 × Salad,Yes
+344,Egg White Omelette + Sprouts,Snack,Non-Veg,Surplus,Weight Gain,495,13.8,56.5,19.2,13.4,Medium,16,Yes,Yes,1 × Egg White Omelette + Sprouts + 1 × Salad,Yes
+345,Rajma Rice,Snack,Non-Veg,Deficit,Yoga,273,12.8,62.3,10.4,8.8,High,26,No,Yes,1 × Rajma Rice + 1 × Coffee,Yes
+346,Chicken Broccoli Salad,Breakfast,Veg,Balanced,Weight Gain,333,32.5,53.2,23.4,8.3,High,29,Yes,No,1 × Chicken Broccoli Salad + 1 × Salad,No
+347,Egg White Omelette + Sprouts,Breakfast,Non-Veg,Balanced,Weight Gain,180,17.1,39.1,6.3,12.5,Medium,29,Yes,Yes,1 × Egg White Omelette + Sprouts + 1 × Salad,No
+348,Moong Dal Cheela,Dinner,Veg,Deficit,Yoga,616,22.1,62.1,4.5,12.0,High,25,No,No,1 × Moong Dal Cheela + 1 × Green Tea,Yes
+349,Vegetable Stew + Brown Bread,Breakfast,Veg,Balanced,Toning,340,9.9,78.8,20.4,8.0,Medium,8,Yes,No,1 × Vegetable Stew + Brown Bread + 1 × Coffee,Yes
+350,Sprouts Poha,Breakfast,Non-Veg,Surplus,"Weight Gain,Weight Loss",471,9.6,28.0,16.4,7.6,Medium,32,No,Yes,1 × Sprouts Poha + 1 × w/ Curd,No
+351,Mixed Fruit Parfait,Dinner,Non-Veg,Balanced,Weight Gain,243,9.4,57.3,14.4,7.5,High,22,No,Yes,1 × Mixed Fruit Parfait + 1 × w/ Curd,Yes
+352,Ragi Idli + Sambar,Snack,Non-Veg,Deficit,Weight Loss,599,32.0,56.8,5.1,10.9,High,16,Yes,Yes,1 × Ragi Idli + Sambar + 1 × Salad,No
+353,Nutri Nuggets Stir Fry,Dinner,Veg,Surplus,"Yoga,Weight Gain",592,29.9,44.8,12.1,10.2,Medium,20,Yes,Yes,1 × Nutri Nuggets Stir Fry + 1 × Herbal Tea,Yes
+354,Moong Dal Cheela,Breakfast,Veg,Deficit,"Toning,Weight Gain",656,8.5,65.3,8.2,12.4,High,28,Yes,No,1 × Moong Dal Cheela + 1 × Fruit Bowl,No
+355,Grilled Fish + Quinoa,Breakfast,Non-Veg,Balanced,"Weight Loss,Weight Gain",407,12.8,76.0,19.3,11.2,Low,32,No,Yes,1 × Grilled Fish + Quinoa + 1 × Herbal Tea,Yes
+356,Multigrain Paratha + Dahi,Dinner,Non-Veg,Balanced,Toning,514,20.5,67.2,12.3,12.5,Medium,29,Yes,No,1 × Multigrain Paratha + Dahi + 1 × Green Tea,Yes
+357,Sprouts Poha,Lunch,Veg,Deficit,Weight Gain,262,23.1,52.9,11.1,10.7,Low,9,Yes,No,1 × Sprouts Poha + 1 × Coffee,Yes
+358,Carrot Beet Pancake,Dinner,Veg,Deficit,Weight Gain,557,26.6,27.4,16.7,8.3,High,9,Yes,Yes,1 × Carrot Beet Pancake + 1 × Green Tea,No
+359,Chicken Broccoli Salad,Breakfast,Non-Veg,Deficit,Weight Gain,647,7.1,68.0,20.5,13.6,Low,14,No,Yes,1 × Chicken Broccoli Salad + 1 × Salad,Yes
+360,Egg White Omelette + Sprouts,Breakfast,Veg,Deficit,"Weight Gain,Weight Loss",620,21.0,76.4,8.9,4.4,Low,16,Yes,No,1 × Egg White Omelette + Sprouts + 1 × Dry Fruits,Yes
+361,Chickpea + Avocado Toast,Breakfast,Veg,Deficit,"Weight Gain,Yoga",546,27.8,27.4,10.4,2.5,Low,30,Yes,No,1 × Chickpea + Avocado Toast + 1 × Herbal Tea,No
+362,Paneer Tikka Wrap,Lunch,Veg,Balanced,Yoga,409,8.5,78.9,5.7,8.9,Low,22,No,No,1 × Paneer Tikka Wrap + 1 × Fruit Bowl,Yes
+363,Masoor Dal Curry,Dinner,Non-Veg,Deficit,"Weight Gain,Weight Loss",545,21.6,75.8,14.9,9.8,High,27,Yes,No,1 × Masoor Dal Curry + 1 × Green Tea,No
+364,Multigrain Paratha + Dahi,Breakfast,Veg,Surplus,"Weight Gain,Yoga",261,21.1,68.1,23.2,3.0,Medium,29,Yes,Yes,1 × Multigrain Paratha + Dahi + 1 × Salad,No
+365,Sprouts Poha,Snack,Non-Veg,Balanced,Weight Loss,544,36.6,61.7,2.5,13.8,High,23,Yes,Yes,1 × Sprouts Poha + 1 × w/ Curd,No
+366,Multigrain Paratha + Dahi,Snack,Veg,Balanced,"Toning,Weight Gain",320,28.7,69.6,3.2,3.6,Low,11,No,Yes,1 × Multigrain Paratha + Dahi + 1 × Green Tea,Yes
+367,Multigrain Paratha + Dahi,Snack,Non-Veg,Balanced,Yoga,319,36.5,47.5,10.1,6.9,High,13,Yes,Yes,1 × Multigrain Paratha + Dahi + 1 × Herbal Tea,No
+368,Chana Salad,Lunch,Veg,Surplus,"Toning,Yoga",353,29.9,41.0,15.4,11.1,Low,14,Yes,Yes,1 × Chana Salad + 1 × Herbal Tea,No
+369,Chickpea + Avocado Toast,Snack,Non-Veg,Balanced,"Weight Loss,Yoga",533,15.3,47.3,15.2,6.8,High,20,Yes,Yes,1 × Chickpea + Avocado Toast + 1 × Chutney,No
+370,Ragi Idli + Sambar,Breakfast,Veg,Deficit,Toning,473,12.2,35.9,9.9,2.9,Low,22,No,Yes,1 × Ragi Idli + Sambar + 1 × Salad,No
+371,Carrot Beet Pancake,Lunch,Non-Veg,Balanced,"Weight Gain,Yoga",490,31.4,53.5,11.9,10.2,Low,31,Yes,Yes,1 × Carrot Beet Pancake + 1 × Coffee,No
+372,Moong Dal Cheela,Snack,Veg,Balanced,"Weight Gain,Toning",232,14.2,27.5,6.2,11.1,Medium,24,No,Yes,1 × Moong Dal Cheela + 1 × w/ Curd,No
+373,Multigrain Paratha + Dahi,Dinner,Non-Veg,Surplus,Yoga,529,9.3,38.7,15.7,4.0,Medium,21,No,Yes,1 × Multigrain Paratha + Dahi + 1 × w/ Curd,No
+374,Apple Almond Porridge,Snack,Veg,Deficit,Weight Loss,375,12.4,56.6,11.1,12.0,Low,28,Yes,No,1 × Apple Almond Porridge + 1 × Green Tea,Yes
+375,Apple Almond Porridge,Breakfast,Veg,Surplus,"Yoga,Weight Gain",263,10.8,42.8,22.4,12.7,Low,29,Yes,No,1 × Apple Almond Porridge + 1 × Herbal Tea,Yes
+376,Bottle Gourd Curry + Rice,Lunch,Non-Veg,Surplus,"Weight Gain,Toning",308,29.2,36.1,7.3,3.7,Low,22,Yes,No,1 × Bottle Gourd Curry + Rice + 1 × Dry Fruits,Yes
+377,Paneer Tikka Wrap,Dinner,Veg,Deficit,"Yoga,Weight Loss",575,7.1,52.8,13.8,11.6,Medium,20,Yes,No,1 × Paneer Tikka Wrap + 1 × Salad,No
+378,Paneer Tikka Wrap,Lunch,Non-Veg,Surplus,Yoga,479,34.3,44.3,5.5,4.4,High,21,No,Yes,1 × Paneer Tikka Wrap + 1 × Soup,Yes
+379,Curd Rice + Fruit Bowl,Lunch,Non-Veg,Balanced,"Toning,Weight Gain",419,35.8,40.8,3.2,6.6,Low,13,No,No,1 × Curd Rice + Fruit Bowl + 1 × Herbal Tea,Yes
+380,Palak Corn Sandwich,Snack,Non-Veg,Balanced,"Yoga,Weight Gain",483,19.3,35.1,23.9,2.6,Medium,31,No,Yes,1 × Palak Corn Sandwich + 1 × Lassi,Yes
+381,Mixed Dal Dosa,Dinner,Veg,Deficit,Weight Gain,644,27.2,52.6,3.6,12.4,Medium,19,Yes,No,1 × Mixed Dal Dosa + 1 × Green Tea,Yes
+382,Carrot Beet Pancake,Lunch,Non-Veg,Balanced,"Toning,Yoga",579,20.6,37.1,4.4,2.6,Medium,30,Yes,No,1 × Carrot Beet Pancake + 1 × Lassi,No
+383,Nutri Nuggets Stir Fry,Breakfast,Non-Veg,Deficit,"Yoga,Weight Gain",419,30.9,29.4,22.3,13.3,Medium,21,No,No,1 × Nutri Nuggets Stir Fry + 1 × w/ Curd,Yes
+384,Masoor Dal Curry,Dinner,Veg,Balanced,Toning,573,26.2,69.9,17.7,4.4,Low,30,Yes,No,1 × Masoor Dal Curry + 1 × Chutney,Yes
+385,Chicken Broccoli Salad,Lunch,Non-Veg,Balanced,Weight Loss,514,16.6,74.2,20.6,8.8,Medium,23,Yes,Yes,1 × Chicken Broccoli Salad + 1 × Chutney,Yes
+386,Sprouts Poha,Lunch,Non-Veg,Balanced,"Toning,Weight Loss",394,25.5,57.7,8.7,12.9,Medium,23,No,Yes,1 × Sprouts Poha + 1 × Dry Fruits,Yes
+387,Soya Chaap Curry + Rice,Breakfast,Non-Veg,Balanced,"Yoga,Toning",400,16.3,39.2,18.5,4.3,High,32,No,Yes,1 × Soya Chaap Curry + Rice + 1 × Coffee,Yes
+388,Curd Rice + Fruit Bowl,Dinner,Non-Veg,Balanced,Yoga,523,12.1,25.6,4.0,7.5,High,10,No,No,1 × Curd Rice + Fruit Bowl + 1 × Dry Fruits,Yes
+389,Chicken Broccoli Salad,Dinner,Non-Veg,Deficit,"Weight Loss,Yoga",533,22.2,46.3,4.5,5.7,Medium,15,No,Yes,1 × Chicken Broccoli Salad + 1 × Coffee,No
+390,Lentil Roll,Lunch,Non-Veg,Surplus,"Weight Gain,Weight Loss",536,17.6,55.5,15.8,7.2,Low,11,No,Yes,1 × Lentil Roll + 1 × Soup,No
+391,Apple Almond Porridge,Breakfast,Non-Veg,Balanced,Toning,216,16.5,25.0,14.0,5.2,High,21,Yes,No,1 × Apple Almond Porridge + 1 × Herbal Tea,No
+392,Oats Upma + Vegetables,Breakfast,Veg,Deficit,"Weight Gain,Yoga",602,9.5,26.2,8.7,4.1,Medium,8,Yes,Yes,1 × Oats Upma + Vegetables + 1 × w/ Curd,Yes
+393,Carrot Beet Pancake,Breakfast,Veg,Deficit,"Yoga,Toning",482,36.3,24.3,16.6,8.7,Medium,30,Yes,No,1 × Carrot Beet Pancake + 1 × Fruit Bowl,Yes
+394,Multigrain Paratha + Dahi,Dinner,Non-Veg,Surplus,Weight Gain,274,13.9,52.1,21.5,11.2,Low,10,No,No,1 × Multigrain Paratha + Dahi + 1 × Coffee,No
+395,Ragi Idli + Sambar,Lunch,Non-Veg,Deficit,Weight Gain,456,34.4,36.0,16.6,3.2,Medium,18,Yes,Yes,1 × Ragi Idli + Sambar + 1 × Herbal Tea,No
+396,Spinach Corn Rotis,Snack,Non-Veg,Balanced,Weight Loss,442,32.6,47.0,4.2,7.3,Low,31,No,No,1 × Spinach Corn Rotis + 1 × Herbal Tea,No
+397,Sweet Potato Chaat,Breakfast,Non-Veg,Deficit,"Weight Gain,Weight Loss",395,11.1,71.6,11.6,7.7,Low,27,No,Yes,1 × Sweet Potato Chaat + 1 × Coffee,No
+398,Chana Salad,Snack,Non-Veg,Balanced,Yoga,559,25.4,76.0,21.0,3.5,Low,19,Yes,No,1 × Chana Salad + 1 × Lassi,Yes
+399,Pesarattu + Peanut Chutney,Lunch,Non-Veg,Balanced,"Weight Loss,Weight Gain",524,29.5,78.2,11.4,10.8,Low,21,No,No,1 × Pesarattu + Peanut Chutney + 1 × Lassi,Yes
+400,Sprouts Poha,Breakfast,Non-Veg,Deficit,"Weight Gain,Weight Loss",596,35.4,55.1,12.1,11.1,High,9,No,Yes,1 × Sprouts Poha + 1 × Green Tea,No
+401,Mixed Fruit Parfait,Snack,Veg,Surplus,Toning,565,9.7,59.7,16.3,6.6,Medium,17,Yes,Yes,1 × Mixed Fruit Parfait + 1 × Salad,No
+402,Rajma Rice,Breakfast,Non-Veg,Deficit,"Yoga,Toning",246,14.5,66.5,18.7,7.8,Medium,11,No,Yes,1 × Rajma Rice + 1 × Lassi,No
+403,Chicken Broccoli Salad,Snack,Veg,Surplus,"Toning,Weight Gain",503,35.2,30.9,5.0,7.1,Medium,23,Yes,Yes,1 × Chicken Broccoli Salad + 1 × Green Tea,Yes
+404,Sweet Potato Chaat,Breakfast,Veg,Surplus,Weight Loss,468,28.8,40.4,18.3,3.6,Medium,12,No,Yes,1 × Sweet Potato Chaat + 1 × w/ Curd,Yes
+405,Sprouts Poha,Breakfast,Veg,Balanced,"Weight Gain,Yoga",464,8.2,28.3,15.1,3.7,Low,20,Yes,Yes,1 × Sprouts Poha + 1 × Fruit Bowl,No
+406,Nutri Nuggets Stir Fry,Dinner,Veg,Surplus,Weight Gain,343,32.8,65.7,9.6,12.1,Medium,11,No,Yes,1 × Nutri Nuggets Stir Fry + 1 × Salad,Yes
+407,Mixed Fruit Parfait,Lunch,Non-Veg,Balanced,"Weight Gain,Yoga",298,21.6,59.2,11.7,3.0,Medium,19,Yes,Yes,1 × Mixed Fruit Parfait + 1 × Herbal Tea,No
+408,Palak Corn Sandwich,Snack,Non-Veg,Surplus,Toning,484,12.1,51.0,9.0,14.0,Low,17,Yes,Yes,1 × Palak Corn Sandwich + 1 × Herbal Tea,No
+409,Quinoa Veg Salad,Snack,Veg,Surplus,"Yoga,Weight Gain",198,28.8,58.6,13.6,5.1,High,12,No,Yes,1 × Quinoa Veg Salad + 1 × Salad,Yes
+410,Apple Almond Porridge,Lunch,Non-Veg,Surplus,"Weight Loss,Yoga",639,20.8,71.5,19.0,5.3,Low,15,No,Yes,1 × Apple Almond Porridge + 1 × w/ Curd,No
+411,Spinach Corn Rotis,Lunch,Non-Veg,Surplus,"Toning,Yoga",268,7.5,38.3,7.0,9.3,Medium,31,Yes,No,1 × Spinach Corn Rotis + 1 × Fruit Bowl,No
+412,Sweet Potato Chaat,Dinner,Non-Veg,Deficit,Yoga,406,31.8,77.1,20.6,13.2,Medium,13,Yes,No,1 × Sweet Potato Chaat + 1 × Herbal Tea,Yes
+413,Sprouts Poha,Lunch,Veg,Surplus,"Toning,Yoga",510,20.6,25.1,10.9,2.6,Low,8,Yes,Yes,1 × Sprouts Poha + 1 × Salad,No
+414,Curd Rice + Fruit Bowl,Dinner,Veg,Surplus,Weight Gain,306,7.1,53.8,12.5,10.2,Medium,31,Yes,No,1 × Curd Rice + Fruit Bowl + 1 × w/ Curd,No
+415,Moong Dal Cheela,Dinner,Non-Veg,Surplus,Yoga,549,19.4,45.7,5.8,10.7,High,11,No,No,1 × Moong Dal Cheela + 1 × Coffee,No
+416,Masoor Dal Curry,Snack,Non-Veg,Balanced,"Toning,Weight Gain",355,28.6,76.5,20.9,12.8,Low,23,Yes,Yes,1 × Masoor Dal Curry + 1 × Herbal Tea,No
+417,Soya Chaap Curry + Rice,Snack,Veg,Balanced,Weight Loss,307,33.0,25.5,8.4,13.4,High,19,No,Yes,1 × Soya Chaap Curry + Rice + 1 × Herbal Tea,No
+418,Mixed Fruit Parfait,Dinner,Veg,Balanced,Yoga,340,16.4,25.3,18.4,6.0,High,8,No,Yes,1 × Mixed Fruit Parfait + 1 × Fruit Bowl,Yes
+419,Moong Dal Cheela,Breakfast,Non-Veg,Balanced,"Weight Gain,Weight Loss",410,16.3,28.5,12.2,4.6,Medium,25,Yes,Yes,1 × Moong Dal Cheela + 1 × Soup,Yes
+420,Quinoa Veg Salad,Snack,Non-Veg,Deficit,Toning,555,9.0,63.6,21.5,8.8,Low,17,Yes,No,1 × Quinoa Veg Salad + 1 × Green Tea,No
+421,Palak Corn Sandwich,Lunch,Veg,Balanced,Yoga,635,29.1,31.9,10.5,10.7,High,27,No,Yes,1 × Palak Corn Sandwich + 1 × Herbal Tea,Yes
+422,Lentil Roll,Dinner,Veg,Surplus,"Weight Loss,Toning",587,21.9,53.9,14.3,5.3,High,15,No,No,1 × Lentil Roll + 1 × Soup,No
+423,Masoor Dal Curry,Snack,Non-Veg,Deficit,Toning,301,19.5,66.3,3.5,11.0,Low,22,No,No,1 × Masoor Dal Curry + 1 × Green Tea,Yes
+424,Paneer Tikka Wrap,Dinner,Veg,Balanced,Weight Loss,435,31.7,54.1,20.5,9.7,Low,16,No,No,1 × Paneer Tikka Wrap + 1 × Chutney,Yes
+425,Apple Almond Porridge,Lunch,Non-Veg,Surplus,"Toning,Weight Loss",658,24.1,29.8,20.2,4.7,High,28,No,Yes,1 × Apple Almond Porridge + 1 × Lassi,Yes
+426,Grilled Fish + Quinoa,Breakfast,Non-Veg,Surplus,Weight Gain,622,15.6,51.8,13.2,4.3,Medium,16,Yes,Yes,1 × Grilled Fish + Quinoa + 1 × Lassi,Yes
+427,Nutri Nuggets Stir Fry,Dinner,Non-Veg,Balanced,"Yoga,Weight Gain",220,12.4,41.7,22.4,6.3,High,25,No,Yes,1 × Nutri Nuggets Stir Fry + 1 × Dry Fruits,Yes
+428,Carrot Beet Pancake,Dinner,Veg,Deficit,"Weight Loss,Yoga",510,24.1,34.1,18.2,11.7,Medium,11,No,No,1 × Carrot Beet Pancake + 1 × Green Tea,No
+429,Mixed Fruit Parfait,Snack,Non-Veg,Surplus,"Yoga,Weight Gain",357,8.2,61.6,16.1,4.0,Medium,9,No,No,1 × Mixed Fruit Parfait + 1 × w/ Curd,Yes
+430,Chana Salad,Breakfast,Non-Veg,Deficit,Toning,667,7.7,30.8,19.0,8.1,Medium,16,No,Yes,1 × Chana Salad + 1 × Salad,No
+431,Tandoori Chicken Salad,Snack,Veg,Surplus,Weight Loss,434,17.4,57.4,6.8,14.0,Low,25,No,Yes,1 × Tandoori Chicken Salad + 1 × Salad,No
+432,Mixed Fruit Parfait,Dinner,Veg,Deficit,Toning,296,30.2,26.9,18.0,11.0,High,31,No,No,1 × Mixed Fruit Parfait + 1 × Dry Fruits,Yes
+433,Apple Almond Porridge,Lunch,Veg,Surplus,"Weight Loss,Weight Gain",382,22.9,43.1,15.2,5.3,High,32,Yes,Yes,1 × Apple Almond Porridge + 1 × Herbal Tea,Yes
+434,Ragi Idli + Sambar,Dinner,Non-Veg,Balanced,"Weight Loss,Toning",257,23.9,58.7,3.2,9.6,Medium,18,No,No,1 × Ragi Idli + Sambar + 1 × Herbal Tea,No
+435,Oats Upma + Vegetables,Breakfast,Veg,Surplus,Toning,570,15.2,40.2,21.9,12.9,High,32,Yes,Yes,1 × Oats Upma + Vegetables + 1 × Soup,No
+436,Curd Rice + Fruit Bowl,Breakfast,Veg,Balanced,Toning,620,8.5,38.1,5.4,13.5,High,29,No,Yes,1 × Curd Rice + Fruit Bowl + 1 × Fruit Bowl,Yes
+437,Oats Upma + Vegetables,Dinner,Non-Veg,Deficit,"Yoga,Toning",183,18.1,59.9,17.5,11.4,High,8,No,Yes,1 × Oats Upma + Vegetables + 1 × Fruit Bowl,Yes
+438,Grilled Fish + Quinoa,Breakfast,Veg,Surplus,Yoga,559,15.8,42.0,4.8,11.1,Medium,12,No,No,1 × Grilled Fish + Quinoa + 1 × Fruit Bowl,Yes
+439,Vegetable Stew + Brown Bread,Breakfast,Veg,Balanced,Yoga,660,8.9,66.1,15.3,6.3,High,21,No,No,1 × Vegetable Stew + Brown Bread + 1 × Fruit Bowl,No
+440,Pesarattu + Peanut Chutney,Dinner,Non-Veg,Balanced,"Weight Gain,Toning",468,10.7,63.9,11.1,3.7,Low,21,Yes,No,1 × Pesarattu + Peanut Chutney + 1 × Chutney,No
+441,Lentil Roll,Snack,Veg,Balanced,"Weight Loss,Weight Gain",465,27.9,61.4,10.2,3.6,Medium,31,Yes,No,1 × Lentil Roll + 1 × Fruit Bowl,No
+442,Soya Chaap Curry + Rice,Breakfast,Non-Veg,Deficit,Yoga,375,7.7,36.0,14.3,2.6,Medium,18,No,Yes,1 × Soya Chaap Curry + Rice + 1 × Soup,No
+443,Moong Dal Cheela,Snack,Veg,Surplus,Weight Gain,389,34.0,48.3,16.6,11.0,High,20,No,Yes,1 × Moong Dal Cheela + 1 × Herbal Tea,Yes
+444,Palak Corn Sandwich,Breakfast,Veg,Surplus,"Yoga,Weight Loss",531,25.9,24.8,16.6,6.4,High,18,No,No,1 × Palak Corn Sandwich + 1 × Lassi,No
+445,Lentil Roll,Breakfast,Veg,Balanced,Weight Loss,573,31.7,47.8,22.4,9.1,High,14,Yes,No,1 × Lentil Roll + 1 × Chutney,No
+446,Egg White Omelette + Sprouts,Dinner,Non-Veg,Deficit,Weight Gain,417,34.4,78.3,19.7,11.6,Medium,31,No,No,1 × Egg White Omelette + Sprouts + 1 × Green Tea,No
+447,Ragi Idli + Sambar,Snack,Veg,Balanced,Weight Gain,648,10.0,62.6,21.8,12.7,High,15,No,No,1 × Ragi Idli + Sambar + 1 × Salad,Yes
+448,Apple Almond Porridge,Breakfast,Non-Veg,Balanced,"Weight Loss,Weight Gain",351,25.7,49.6,20.3,12.3,High,14,Yes,No,1 × Apple Almond Porridge + 1 × Green Tea,No
+449,Sprouts Poha,Breakfast,Non-Veg,Balanced,"Weight Gain,Yoga",590,34.3,67.5,2.5,2.7,High,28,Yes,Yes,1 × Sprouts Poha + 1 × Herbal Tea,No
+450,Mixed Fruit Parfait,Breakfast,Non-Veg,Deficit,"Weight Loss,Yoga",578,28.0,24.7,9.5,10.5,Low,27,No,No,1 × Mixed Fruit Parfait + 1 × Green Tea,No
+451,Rajma Rice,Snack,Non-Veg,Deficit,Yoga,296,11.1,32.8,10.8,11.5,Low,25,No,Yes,1 × Rajma Rice + 1 × w/ Curd,No
+452,Egg Tomato Bhurji,Lunch,Veg,Balanced,Toning,344,11.7,51.9,23.5,5.6,Low,18,Yes,No,1 × Egg Tomato Bhurji + 1 × Dry Fruits,Yes
+453,Grilled Fish + Quinoa,Lunch,Non-Veg,Surplus,Weight Loss,395,10.7,58.5,13.7,12.6,Medium,19,Yes,Yes,1 × Grilled Fish + Quinoa + 1 × Dry Fruits,No
+454,Masoor Dal Curry,Lunch,Veg,Balanced,"Weight Gain,Weight Loss",541,30.6,58.5,15.4,7.3,High,19,Yes,Yes,1 × Masoor Dal Curry + 1 × Soup,Yes
+455,Pumpkin Soup,Snack,Veg,Deficit,"Weight Gain,Yoga",492,26.2,53.8,16.9,8.1,Low,25,No,No,1 × Pumpkin Soup + 1 × Herbal Tea,No
+456,Chana Salad,Dinner,Non-Veg,Surplus,"Yoga,Weight Loss",531,8.9,31.2,9.4,7.0,High,13,No,No,1 × Chana Salad + 1 × w/ Curd,Yes
+457,Ragi Idli + Sambar,Lunch,Veg,Deficit,"Weight Gain,Yoga",451,24.4,69.6,2.9,3.7,Medium,31,Yes,No,1 × Ragi Idli + Sambar + 1 × Salad,Yes
+458,Lentil Roll,Dinner,Veg,Balanced,Weight Loss,540,28.5,27.2,2.5,8.9,Low,16,Yes,No,1 × Lentil Roll + 1 × Dry Fruits,No
+459,Lentil Roll,Lunch,Non-Veg,Balanced,Weight Loss,380,12.2,73.6,21.3,3.1,High,30,No,No,1 × Lentil Roll + 1 × w/ Curd,No
+460,Sprouts Poha,Dinner,Non-Veg,Balanced,Yoga,187,18.1,36.5,14.5,7.7,Low,25,No,Yes,1 × Sprouts Poha + 1 × Salad,Yes
+461,Masoor Dal Curry,Dinner,Veg,Deficit,"Weight Gain,Toning",321,7.1,75.3,2.6,9.0,Low,24,No,Yes,1 × Masoor Dal Curry + 1 × Soup,Yes
+462,Paneer Tikka Wrap,Snack,Veg,Deficit,Weight Gain,629,16.8,66.6,7.3,4.4,High,15,No,Yes,1 × Paneer Tikka Wrap + 1 × Chutney,No
+463,Grilled Fish + Quinoa,Snack,Non-Veg,Balanced,"Weight Loss,Weight Gain",313,24.6,36.4,6.9,8.4,Low,25,No,Yes,1 × Grilled Fish + Quinoa + 1 × Lassi,Yes
+464,Egg White Omelette + Sprouts,Snack,Non-Veg,Balanced,"Toning,Weight Loss",220,16.5,34.5,2.1,5.9,High,14,Yes,No,1 × Egg White Omelette + Sprouts + 1 × Chutney,No
+465,Multigrain Paratha + Dahi,Breakfast,Non-Veg,Deficit,Yoga,232,29.6,48.1,18.6,6.3,Medium,26,No,No,1 × Multigrain Paratha + Dahi + 1 × Lassi,Yes
+466,Palak Corn Sandwich,Breakfast,Non-Veg,Balanced,Yoga,584,26.4,45.4,9.8,9.2,High,25,Yes,No,1 × Palak Corn Sandwich + 1 × Salad,No
+467,Pesarattu + Peanut Chutney,Snack,Non-Veg,Surplus,"Yoga,Weight Gain",206,7.1,31.0,19.3,12.6,Medium,13,Yes,Yes,1 × Pesarattu + Peanut Chutney + 1 × Salad,Yes
+468,Grilled Fish + Quinoa,Snack,Non-Veg,Surplus,"Weight Loss,Weight Gain",194,16.7,45.3,22.6,14.0,High,16,Yes,Yes,1 × Grilled Fish + Quinoa + 1 × Lassi,Yes
+469,Pesarattu + Peanut Chutney,Lunch,Non-Veg,Deficit,Weight Loss,273,32.8,50.2,22.8,13.9,Low,15,No,No,1 × Pesarattu + Peanut Chutney + 1 × Soup,Yes
+470,Chickpea + Avocado Toast,Snack,Non-Veg,Deficit,Weight Gain,390,15.8,28.1,14.3,2.7,Low,10,No,No,1 × Chickpea + Avocado Toast + 1 × Chutney,No
+471,Apple Almond Porridge,Dinner,Veg,Deficit,Toning,240,35.5,50.0,15.6,9.0,High,10,Yes,No,1 × Apple Almond Porridge + 1 × Fruit Bowl,Yes
+472,Soya Chaap Curry + Rice,Dinner,Veg,Surplus,Weight Loss,534,36.2,49.0,8.9,4.2,High,14,Yes,No,1 × Soya Chaap Curry + Rice + 1 × Dry Fruits,Yes
+473,Paneer Tikka Wrap,Breakfast,Veg,Deficit,"Yoga,Weight Gain",387,35.4,75.9,9.8,6.6,Medium,19,No,Yes,1 × Paneer Tikka Wrap + 1 × w/ Curd,No
+474,Bottle Gourd Curry + Rice,Dinner,Veg,Balanced,"Toning,Weight Gain",389,13.4,63.5,16.1,10.4,Low,18,No,Yes,1 × Bottle Gourd Curry + Rice + 1 × Salad,Yes
+475,Rajma Rice,Breakfast,Veg,Surplus,Weight Gain,474,20.6,48.7,15.8,12.6,Medium,9,Yes,Yes,1 × Rajma Rice + 1 × Salad,No
+476,Chana Salad,Breakfast,Veg,Balanced,"Weight Loss,Yoga",556,13.6,76.9,13.4,7.0,Low,20,No,Yes,1 × Chana Salad + 1 × Salad,No
+477,Chana Salad,Dinner,Veg,Deficit,"Toning,Yoga",639,34.7,53.4,11.9,13.2,Low,20,Yes,No,1 × Chana Salad + 1 × Fruit Bowl,No
+478,Mixed Fruit Parfait,Lunch,Non-Veg,Balanced,"Weight Loss,Weight Gain",577,15.7,59.0,5.6,11.8,Low,16,Yes,No,1 × Mixed Fruit Parfait + 1 × Dry Fruits,No
+479,Tandoori Chicken Salad,Lunch,Veg,Deficit,Toning,406,32.7,73.3,11.6,10.4,Low,32,Yes,Yes,1 × Tandoori Chicken Salad + 1 × Salad,No
+480,Rajma Rice,Snack,Veg,Deficit,Weight Gain,285,32.6,47.7,22.7,3.0,Medium,31,Yes,No,1 × Rajma Rice + 1 × Fruit Bowl,No
+481,Nutri Nuggets Stir Fry,Snack,Non-Veg,Surplus,Weight Loss,329,29.6,68.9,7.1,10.9,Low,18,No,No,1 × Nutri Nuggets Stir Fry + 1 × Dry Fruits,Yes
+482,Sweet Potato Chaat,Dinner,Non-Veg,Balanced,Toning,438,21.5,44.2,19.6,5.6,Low,19,Yes,No,1 × Sweet Potato Chaat + 1 × Dry Fruits,No
+483,Sprouts Poha,Breakfast,Veg,Balanced,"Toning,Weight Gain",566,29.5,32.0,18.0,3.0,Low,12,No,No,1 × Sprouts Poha + 1 × Coffee,Yes
+484,Vegetable Stew + Brown Bread,Breakfast,Veg,Surplus,"Toning,Weight Gain",187,32.3,50.2,14.4,3.9,High,26,No,No,1 × Vegetable Stew + Brown Bread + 1 × w/ Curd,Yes
+485,Ragi Idli + Sambar,Dinner,Veg,Surplus,Toning,427,9.0,54.0,23.5,3.4,High,15,No,No,1 × Ragi Idli + Sambar + 1 × Green Tea,No
+486,Chana Salad,Dinner,Non-Veg,Surplus,Toning,414,25.8,63.9,17.8,7.9,Low,8,Yes,Yes,1 × Chana Salad + 1 × Salad,Yes
+487,Sweet Potato Chaat,Lunch,Non-Veg,Surplus,Weight Gain,618,18.3,43.3,18.7,13.6,Low,14,Yes,Yes,1 × Sweet Potato Chaat + 1 × Herbal Tea,No
+488,Sweet Potato Chaat,Dinner,Non-Veg,Deficit,"Weight Gain,Toning",505,19.8,30.5,17.3,12.8,Low,13,No,No,1 × Sweet Potato Chaat + 1 × w/ Curd,Yes
+489,Moong Dal Cheela,Snack,Non-Veg,Surplus,Yoga,227,36.3,39.7,15.4,5.3,Medium,26,No,No,1 × Moong Dal Cheela + 1 × Dry Fruits,No
+490,Vegetable Stew + Brown Bread,Dinner,Veg,Balanced,Weight Gain,448,34.2,26.7,7.1,9.5,Medium,9,Yes,Yes,1 × Vegetable Stew + Brown Bread + 1 × Lassi,No
+491,Mixed Dal Dosa,Breakfast,Non-Veg,Balanced,"Weight Gain,Toning",327,9.0,70.0,8.0,11.6,High,11,Yes,Yes,1 × Mixed Dal Dosa + 1 × Soup,Yes
+492,Pumpkin Soup,Lunch,Veg,Balanced,"Yoga,Weight Loss",617,36.9,76.9,19.5,7.1,High,9,No,Yes,1 × Pumpkin Soup + 1 × Herbal Tea,No
+493,Oats Upma + Vegetables,Lunch,Veg,Balanced,"Yoga,Toning",349,10.7,67.8,18.8,4.5,Medium,14,Yes,No,1 × Oats Upma + Vegetables + 1 × Dry Fruits,No
+494,Moong Dal Cheela,Lunch,Non-Veg,Surplus,Weight Gain,478,10.2,53.3,20.5,6.7,High,20,Yes,No,1 × Moong Dal Cheela + 1 × Green Tea,Yes
+495,Ragi Idli + Sambar,Lunch,Veg,Deficit,Toning,619,28.1,35.1,10.1,6.3,High,19,Yes,Yes,1 × Ragi Idli + Sambar + 1 × Dry Fruits,No
+496,Tandoori Chicken Salad,Snack,Veg,Balanced,"Weight Gain,Toning",510,20.6,46.0,12.1,6.2,Medium,19,Yes,Yes,1 × Tandoori Chicken Salad + 1 × Herbal Tea,No
+497,Quinoa Veg Salad,Lunch,Non-Veg,Deficit,"Yoga,Weight Gain",300,25.6,28.2,19.5,2.8,Low,16,No,No,1 × Quinoa Veg Salad + 1 × Chutney,No
+498,Sweet Potato Chaat,Snack,Veg,Deficit,"Weight Loss,Yoga",264,36.7,61.3,19.7,12.1,Medium,15,Yes,Yes,1 × Sweet Potato Chaat + 1 × Salad,Yes
+499,Mixed Fruit Parfait,Lunch,Veg,Balanced,"Yoga,Toning",490,24.2,41.2,2.1,7.9,Low,16,No,Yes,1 × Mixed Fruit Parfait + 1 × Herbal Tea,No
+500,Pesarattu + Peanut Chutney,Breakfast,Veg,Balanced,"Weight Loss,Toning",322,24.1,34.6,11.4,2.6,High,13,Yes,No,1 × Pesarattu + Peanut Chutney + 1 × Soup,Yes
+501,Apple Almond Porridge,Lunch,Veg,Surplus,"Yoga,Weight Gain",380,26.3,40.7,22.7,12.3,Medium,20,Yes,No,1 × Apple Almond Porridge + 1 × w/ Curd,Yes
+502,Chickpea + Avocado Toast,Breakfast,Non-Veg,Deficit,Toning,208,11.8,51.5,2.9,4.3,High,23,No,No,1 × Chickpea + Avocado Toast + 1 × Coffee,No
+503,Vegetable Stew + Brown Bread,Lunch,Non-Veg,Surplus,"Weight Gain,Weight Loss",593,16.5,55.0,11.6,12.6,Low,30,Yes,Yes,1 × Vegetable Stew + Brown Bread + 1 × Coffee,No
+504,Rajma Rice,Lunch,Non-Veg,Deficit,"Weight Loss,Weight Gain",305,16.9,46.6,4.1,4.3,High,9,Yes,No,1 × Rajma Rice + 1 × Fruit Bowl,No
+505,Curd Rice + Fruit Bowl,Lunch,Non-Veg,Surplus,"Toning,Weight Gain",440,9.0,53.6,22.4,2.4,Low,26,Yes,No,1 × Curd Rice + Fruit Bowl + 1 × Salad,No
+506,Curd Rice + Fruit Bowl,Breakfast,Non-Veg,Surplus,"Weight Gain,Yoga",236,12.1,36.2,6.1,7.1,Low,11,Yes,No,1 × Curd Rice + Fruit Bowl + 1 × Soup,No
+507,Chana Salad,Lunch,Veg,Surplus,Weight Loss,620,9.5,38.8,12.5,3.4,Low,9,Yes,No,1 × Chana Salad + 1 × Dry Fruits,Yes
+508,Sprouts Poha,Lunch,Veg,Surplus,Weight Gain,465,22.9,62.8,15.1,8.9,Low,21,Yes,No,1 × Sprouts Poha + 1 × Chutney,Yes
+509,Moong Dal Cheela,Dinner,Non-Veg,Surplus,"Weight Gain,Toning",243,20.1,63.4,14.4,3.9,Low,16,Yes,No,1 × Moong Dal Cheela + 1 × Chutney,No
+510,Quinoa Veg Salad,Breakfast,Veg,Deficit,"Toning,Weight Loss",310,19.3,75.4,10.9,13.6,Medium,19,Yes,No,1 × Quinoa Veg Salad + 1 × Soup,Yes
+511,Apple Almond Porridge,Dinner,Non-Veg,Surplus,"Weight Loss,Yoga",585,31.3,76.5,13.2,5.9,Medium,14,No,Yes,1 × Apple Almond Porridge + 1 × Dry Fruits,Yes
+512,Egg Tomato Bhurji,Dinner,Veg,Deficit,Yoga,534,26.9,52.0,13.0,12.5,Medium,26,Yes,No,1 × Egg Tomato Bhurji + 1 × Coffee,Yes
+513,Nutri Nuggets Stir Fry,Dinner,Veg,Surplus,Weight Loss,513,33.2,39.0,8.1,6.0,Medium,20,Yes,No,1 × Nutri Nuggets Stir Fry + 1 × w/ Curd,No
+514,Masoor Dal Curry,Breakfast,Veg,Deficit,Weight Loss,397,32.5,72.7,3.6,12.0,High,17,No,No,1 × Masoor Dal Curry + 1 × Dry Fruits,Yes
+515,Carrot Beet Pancake,Breakfast,Non-Veg,Surplus,Weight Gain,522,19.7,44.3,20.5,3.2,Medium,17,Yes,No,1 × Carrot Beet Pancake + 1 × Salad,No
+516,Chickpea + Avocado Toast,Dinner,Non-Veg,Balanced,Weight Loss,639,28.3,37.6,5.3,2.6,Medium,26,No,Yes,1 × Chickpea + Avocado Toast + 1 × Lassi,Yes
+517,Pesarattu + Peanut Chutney,Dinner,Veg,Balanced,Weight Gain,418,14.5,73.1,24.0,11.8,Low,9,Yes,No,1 × Pesarattu + Peanut Chutney + 1 × w/ Curd,No
+518,Soya Chaap Curry + Rice,Snack,Veg,Deficit,Toning,410,17.9,77.0,23.3,9.3,High,18,Yes,No,1 × Soya Chaap Curry + Rice + 1 × Salad,No
+519,Paneer Tikka Wrap,Lunch,Non-Veg,Surplus,Yoga,314,7.9,41.2,3.0,11.6,Low,28,Yes,Yes,1 × Paneer Tikka Wrap + 1 × Soup,Yes
+520,Oats Upma + Vegetables,Snack,Veg,Balanced,Toning,466,27.9,77.2,11.2,7.6,High,27,No,No,1 × Oats Upma + Vegetables + 1 × Coffee,Yes
+521,Pesarattu + Peanut Chutney,Snack,Veg,Balanced,"Toning,Weight Gain",525,18.6,58.2,13.4,8.0,High,26,No,No,1 × Pesarattu + Peanut Chutney + 1 × Dry Fruits,Yes
+522,Quinoa Veg Salad,Snack,Non-Veg,Deficit,"Yoga,Weight Loss",614,18.9,63.0,2.6,8.6,Low,26,Yes,No,1 × Quinoa Veg Salad + 1 × Dry Fruits,No
+523,Carrot Beet Pancake,Dinner,Non-Veg,Deficit,Yoga,445,34.4,44.3,4.0,10.7,Medium,21,No,No,1 × Carrot Beet Pancake + 1 × Lassi,No
+524,Pesarattu + Peanut Chutney,Snack,Veg,Deficit,"Weight Loss,Yoga",368,32.2,73.5,10.5,4.1,Low,23,Yes,No,1 × Pesarattu + Peanut Chutney + 1 × Dry Fruits,Yes
+525,Mixed Fruit Parfait,Snack,Veg,Surplus,"Toning,Yoga",358,14.0,48.4,21.3,10.9,Low,13,Yes,No,1 × Mixed Fruit Parfait + 1 × Soup,Yes
+526,Lentil Roll,Snack,Non-Veg,Deficit,"Yoga,Weight Gain",205,32.4,45.7,17.3,2.7,High,15,Yes,No,1 × Lentil Roll + 1 × Fruit Bowl,No
+527,Sweet Potato Chaat,Dinner,Veg,Deficit,Weight Gain,265,24.5,26.6,22.3,11.7,Medium,31,Yes,No,1 × Sweet Potato Chaat + 1 × Coffee,Yes
+528,Apple Almond Porridge,Snack,Non-Veg,Surplus,Weight Loss,392,30.8,66.7,22.8,12.1,Medium,22,No,No,1 × Apple Almond Porridge + 1 × Salad,Yes
+529,Ragi Idli + Sambar,Lunch,Veg,Balanced,Toning,291,22.4,37.8,6.1,6.7,High,12,No,Yes,1 × Ragi Idli + Sambar + 1 × Salad,Yes
+530,Mixed Fruit Parfait,Breakfast,Non-Veg,Surplus,"Weight Gain,Yoga",624,25.8,72.8,6.7,5.8,Medium,19,Yes,Yes,1 × Mixed Fruit Parfait + 1 × Coffee,Yes
+531,Grilled Fish + Quinoa,Breakfast,Non-Veg,Surplus,"Toning,Weight Loss",533,12.4,57.9,9.9,3.5,Medium,20,No,Yes,1 × Grilled Fish + Quinoa + 1 × Lassi,No
+532,Masoor Dal Curry,Dinner,Non-Veg,Surplus,"Weight Loss,Weight Gain",658,9.3,75.4,9.9,12.9,Low,32,No,Yes,1 × Masoor Dal Curry + 1 × w/ Curd,Yes
+533,Lentil Roll,Breakfast,Veg,Balanced,"Yoga,Toning",372,14.3,27.4,10.1,5.4,Medium,25,Yes,Yes,1 × Lentil Roll + 1 × w/ Curd,No
+534,Soya Chaap Curry + Rice,Snack,Non-Veg,Balanced,Weight Gain,434,21.4,65.5,17.2,5.1,High,24,No,Yes,1 × Soya Chaap Curry + Rice + 1 × Lassi,Yes
+535,Moong Dal Cheela,Lunch,Veg,Deficit,"Weight Loss,Weight Gain",457,16.1,57.5,8.0,4.6,Medium,9,No,Yes,1 × Moong Dal Cheela + 1 × Green Tea,No
+536,Multigrain Paratha + Dahi,Lunch,Non-Veg,Surplus,Yoga,469,24.0,25.8,11.1,8.1,High,18,No,No,1 × Multigrain Paratha + Dahi + 1 × w/ Curd,Yes
+537,Curd Rice + Fruit Bowl,Snack,Veg,Surplus,Weight Loss,403,18.2,67.8,12.1,14.0,High,13,Yes,Yes,1 × Curd Rice + Fruit Bowl + 1 × Chutney,Yes
+538,Rajma Rice,Snack,Non-Veg,Surplus,Toning,282,7.1,32.1,15.6,8.7,Low,11,Yes,No,1 × Rajma Rice + 1 × Herbal Tea,No
+539,Carrot Beet Pancake,Breakfast,Non-Veg,Surplus,"Weight Gain,Weight Loss",627,35.3,45.3,7.2,7.0,Medium,15,Yes,Yes,1 × Carrot Beet Pancake + 1 × Salad,No
+540,Rajma Rice,Lunch,Non-Veg,Surplus,"Weight Loss,Weight Gain",640,34.5,66.1,18.3,8.5,Low,9,No,Yes,1 × Rajma Rice + 1 × Soup,Yes
+541,Ragi Idli + Sambar,Snack,Non-Veg,Surplus,"Yoga,Weight Loss",270,16.8,73.0,5.9,10.5,Low,21,Yes,Yes,1 × Ragi Idli + Sambar + 1 × Coffee,Yes
+542,Tandoori Chicken Salad,Snack,Veg,Surplus,"Weight Gain,Toning",202,36.5,24.3,12.8,11.1,Low,30,Yes,No,1 × Tandoori Chicken Salad + 1 × Fruit Bowl,No
+543,Spinach Corn Rotis,Snack,Non-Veg,Deficit,"Yoga,Weight Gain",418,17.7,78.5,18.9,6.0,High,21,No,No,1 × Spinach Corn Rotis + 1 × Green Tea,No
+544,Sprouts Poha,Snack,Non-Veg,Balanced,Yoga,197,30.9,30.1,8.3,11.9,High,30,Yes,No,1 × Sprouts Poha + 1 × Soup,No
+545,Sweet Potato Chaat,Dinner,Veg,Balanced,"Weight Loss,Yoga",368,10.0,32.4,9.2,4.9,Medium,23,Yes,No,1 × Sweet Potato Chaat + 1 × Chutney,Yes
+546,Pumpkin Soup,Breakfast,Veg,Balanced,"Weight Gain,Toning",495,28.4,30.1,17.0,13.7,Medium,14,Yes,Yes,1 × Pumpkin Soup + 1 × Dry Fruits,Yes
+547,Chana Salad,Breakfast,Veg,Surplus,"Yoga,Toning",575,19.8,40.3,16.0,8.4,High,21,Yes,Yes,1 × Chana Salad + 1 × Coffee,Yes
+548,Mixed Dal Dosa,Lunch,Non-Veg,Surplus,"Toning,Weight Loss",248,24.6,51.7,11.6,8.0,Medium,19,Yes,Yes,1 × Mixed Dal Dosa + 1 × Fruit Bowl,No
+549,Moong Dal Cheela,Breakfast,Veg,Balanced,"Toning,Yoga",406,31.5,25.4,5.7,13.6,Low,18,Yes,No,1 × Moong Dal Cheela + 1 × Herbal Tea,No
+550,Multigrain Paratha + Dahi,Lunch,Veg,Surplus,"Weight Loss,Toning",292,34.1,43.0,4.1,8.2,High,27,Yes,Yes,1 × Multigrain Paratha + Dahi + 1 × Soup,No
+551,Egg Tomato Bhurji,Dinner,Veg,Surplus,Weight Loss,537,14.3,64.2,17.6,7.0,Low,26,No,No,1 × Egg Tomato Bhurji + 1 × Chutney,Yes
+552,Soya Chaap Curry + Rice,Dinner,Veg,Balanced,"Weight Loss,Yoga",508,31.2,55.2,5.2,9.3,Low,13,Yes,No,1 × Soya Chaap Curry + Rice + 1 × Green Tea,Yes
+553,Masoor Dal Curry,Dinner,Veg,Balanced,Toning,606,7.9,76.2,22.0,10.6,Low,28,Yes,Yes,1 × Masoor Dal Curry + 1 × Soup,No
+554,Grilled Fish + Quinoa,Snack,Veg,Surplus,"Weight Loss,Weight Gain",370,23.1,47.9,20.0,9.4,Medium,8,Yes,No,1 × Grilled Fish + Quinoa + 1 × Coffee,No
+555,Spinach Corn Rotis,Lunch,Veg,Balanced,Weight Loss,524,7.5,72.7,9.7,7.7,Medium,22,Yes,No,1 × Spinach Corn Rotis + 1 × Chutney,Yes
+556,Ragi Idli + Sambar,Lunch,Non-Veg,Surplus,"Toning,Yoga",624,27.0,67.9,21.7,11.2,Low,9,Yes,Yes,1 × Ragi Idli + Sambar + 1 × Coffee,No
+557,Chickpea + Avocado Toast,Breakfast,Veg,Surplus,"Weight Loss,Yoga",489,30.8,41.1,22.0,12.2,Low,13,Yes,Yes,1 × Chickpea + Avocado Toast + 1 × Salad,No
+558,Sprouts Poha,Dinner,Non-Veg,Surplus,"Toning,Weight Gain",661,20.1,73.5,7.8,6.2,High,22,Yes,No,1 × Sprouts Poha + 1 × Herbal Tea,No
+559,Moong Dal Cheela,Dinner,Veg,Surplus,Weight Gain,328,20.7,36.7,9.7,7.8,High,27,Yes,Yes,1 × Moong Dal Cheela + 1 × Dry Fruits,No
+560,Carrot Beet Pancake,Lunch,Veg,Surplus,Weight Gain,618,9.5,38.9,18.9,14.0,Low,30,No,No,1 × Carrot Beet Pancake + 1 × w/ Curd,No
+561,Soya Chaap Curry + Rice,Dinner,Veg,Deficit,"Weight Loss,Yoga",240,34.9,56.7,20.7,10.9,Medium,18,No,Yes,1 × Soya Chaap Curry + Rice + 1 × Soup,No
+562,Chana Salad,Snack,Non-Veg,Deficit,"Weight Loss,Yoga",463,7.4,29.4,4.4,10.1,Medium,25,No,No,1 × Chana Salad + 1 × Herbal Tea,Yes
+563,Lentil Roll,Dinner,Veg,Surplus,Yoga,388,20.2,35.3,12.6,9.9,High,16,No,No,1 × Lentil Roll + 1 × Fruit Bowl,No
+564,Curd Rice + Fruit Bowl,Lunch,Non-Veg,Balanced,"Yoga,Toning",479,25.0,57.2,12.0,12.4,Medium,25,No,No,1 × Curd Rice + Fruit Bowl + 1 × Green Tea,No
+565,Apple Almond Porridge,Snack,Non-Veg,Balanced,"Yoga,Weight Gain",503,8.0,52.9,17.6,3.7,High,16,Yes,No,1 × Apple Almond Porridge + 1 × Soup,Yes
+566,Paneer Tikka Wrap,Snack,Veg,Balanced,"Toning,Weight Loss",509,8.2,40.1,16.2,13.8,High,14,Yes,Yes,1 × Paneer Tikka Wrap + 1 × Green Tea,Yes
+567,Sprouts Poha,Breakfast,Non-Veg,Balanced,Weight Gain,228,14.9,78.1,17.5,12.0,Medium,24,Yes,No,1 × Sprouts Poha + 1 × w/ Curd,Yes
+568,Multigrain Paratha + Dahi,Snack,Non-Veg,Surplus,Weight Loss,431,8.0,51.7,21.9,10.9,Low,29,Yes,No,1 × Multigrain Paratha + Dahi + 1 × Coffee,No
+569,Nutri Nuggets Stir Fry,Breakfast,Veg,Deficit,Weight Loss,236,11.5,27.6,19.3,9.2,Low,17,No,Yes,1 × Nutri Nuggets Stir Fry + 1 × Coffee,Yes
+570,Sprouts Poha,Dinner,Non-Veg,Surplus,Weight Gain,318,23.1,47.6,5.0,8.9,Medium,23,Yes,No,1 × Sprouts Poha + 1 × Soup,Yes
+571,Moong Dal Cheela,Snack,Veg,Surplus,"Yoga,Weight Loss",315,25.8,57.8,16.5,11.0,High,24,Yes,Yes,1 × Moong Dal Cheela + 1 × Coffee,No
+572,Ragi Idli + Sambar,Lunch,Non-Veg,Balanced,Toning,260,21.0,59.0,20.0,9.0,Low,13,Yes,Yes,1 × Ragi Idli + Sambar + 1 × Coffee,Yes
+573,Oats Upma + Vegetables,Dinner,Veg,Deficit,Yoga,241,13.4,75.1,12.8,13.5,High,20,No,Yes,1 × Oats Upma + Vegetables + 1 × Dry Fruits,Yes
+574,Moong Dal Cheela,Snack,Veg,Deficit,"Weight Gain,Weight Loss",518,35.8,76.5,6.8,5.0,High,17,No,No,1 × Moong Dal Cheela + 1 × Salad,No
+575,Moong Dal Cheela,Lunch,Veg,Deficit,Weight Gain,204,32.6,53.2,13.1,11.3,Medium,17,No,Yes,1 × Moong Dal Cheela + 1 × Salad,No
+576,Grilled Fish + Quinoa,Lunch,Non-Veg,Balanced,"Yoga,Toning",624,20.6,38.6,3.7,12.8,High,28,No,Yes,1 × Grilled Fish + Quinoa + 1 × Dry Fruits,No
+577,Sprouts Poha,Lunch,Veg,Deficit,"Toning,Yoga",426,34.1,49.5,4.6,5.6,Medium,32,No,Yes,1 × Sprouts Poha + 1 × Fruit Bowl,Yes
+578,Multigrain Paratha + Dahi,Breakfast,Non-Veg,Deficit,"Yoga,Weight Loss",269,18.3,70.0,10.3,3.5,Low,13,No,Yes,1 × Multigrain Paratha + Dahi + 1 × Herbal Tea,No
+579,Carrot Beet Pancake,Breakfast,Veg,Surplus,"Toning,Weight Loss",276,26.5,72.4,13.5,4.0,Low,8,No,Yes,1 × Carrot Beet Pancake + 1 × Fruit Bowl,Yes
+580,Apple Almond Porridge,Breakfast,Veg,Deficit,"Yoga,Weight Loss",483,14.6,69.9,3.5,2.4,High,13,No,No,1 × Apple Almond Porridge + 1 × Chutney,Yes
+581,Chana Salad,Dinner,Veg,Surplus,Toning,446,16.2,42.3,4.8,9.4,Low,24,No,Yes,1 × Chana Salad + 1 × Soup,Yes
+582,Chicken Broccoli Salad,Dinner,Veg,Deficit,Weight Gain,244,36.3,42.6,4.9,7.2,High,10,No,Yes,1 × Chicken Broccoli Salad + 1 × Soup,No
+583,Palak Corn Sandwich,Dinner,Veg,Surplus,Weight Loss,386,26.1,73.5,19.5,13.2,High,24,Yes,Yes,1 × Palak Corn Sandwich + 1 × Green Tea,Yes
+584,Rajma Rice,Snack,Veg,Balanced,"Toning,Weight Loss",621,13.7,32.6,12.7,10.8,High,28,No,No,1 × Rajma Rice + 1 × Salad,Yes
+585,Vegetable Stew + Brown Bread,Snack,Non-Veg,Deficit,"Yoga,Weight Gain",237,25.7,28.4,19.9,12.4,High,28,Yes,Yes,1 × Vegetable Stew + Brown Bread + 1 × w/ Curd,Yes
+586,Spinach Corn Rotis,Lunch,Veg,Surplus,Weight Loss,349,26.9,32.9,5.5,3.8,Low,13,Yes,Yes,1 × Spinach Corn Rotis + 1 × Lassi,Yes
+587,Mixed Fruit Parfait,Breakfast,Veg,Balanced,"Toning,Weight Loss",266,34.3,77.0,11.8,3.2,Low,25,No,No,1 × Mixed Fruit Parfait + 1 × Fruit Bowl,No
+588,Palak Corn Sandwich,Breakfast,Non-Veg,Balanced,Weight Loss,535,16.8,36.5,4.2,11.6,Low,14,No,Yes,1 × Palak Corn Sandwich + 1 × Lassi,Yes
+589,Soya Chaap Curry + Rice,Dinner,Non-Veg,Deficit,"Yoga,Weight Gain",448,20.6,53.7,15.2,8.9,High,22,No,No,1 × Soya Chaap Curry + Rice + 1 × Fruit Bowl,Yes
+590,Carrot Beet Pancake,Dinner,Non-Veg,Balanced,Toning,470,12.9,40.7,5.1,7.0,Medium,11,No,Yes,1 × Carrot Beet Pancake + 1 × Salad,No
+591,Moong Dal Cheela,Snack,Non-Veg,Balanced,Weight Gain,430,33.5,34.5,22.7,3.5,Low,24,Yes,Yes,1 × Moong Dal Cheela + 1 × Chutney,Yes
+592,Apple Almond Porridge,Lunch,Veg,Balanced,"Weight Loss,Toning",379,16.6,34.3,14.4,13.7,High,16,Yes,No,1 × Apple Almond Porridge + 1 × Lassi,Yes
+593,Ragi Idli + Sambar,Breakfast,Veg,Deficit,Yoga,432,24.8,42.7,22.8,3.7,Low,9,No,Yes,1 × Ragi Idli + Sambar + 1 × Herbal Tea,Yes
+594,Egg Tomato Bhurji,Lunch,Non-Veg,Surplus,"Yoga,Toning",229,22.7,59.9,9.2,13.6,High,27,Yes,No,1 × Egg Tomato Bhurji + 1 × Soup,Yes
+595,Oats Upma + Vegetables,Breakfast,Veg,Deficit,"Yoga,Toning",621,15.7,73.8,9.7,11.8,Medium,12,Yes,Yes,1 × Oats Upma + Vegetables + 1 × Salad,No
+596,Apple Almond Porridge,Snack,Non-Veg,Deficit,"Toning,Yoga",645,15.7,63.3,2.9,12.2,High,13,Yes,Yes,1 × Apple Almond Porridge + 1 × Soup,Yes
+597,Moong Dal Cheela,Lunch,Non-Veg,Balanced,"Yoga,Toning",364,17.2,63.4,15.0,2.8,Medium,22,No,Yes,1 × Moong Dal Cheela + 1 × Dry Fruits,Yes
+598,Sweet Potato Chaat,Lunch,Non-Veg,Surplus,Toning,335,29.3,36.8,22.9,6.5,High,25,Yes,No,1 × Sweet Potato Chaat + 1 × Lassi,No
+599,Soya Chaap Curry + Rice,Breakfast,Non-Veg,Deficit,"Weight Loss,Yoga",337,33.5,70.0,7.8,13.4,High,19,No,Yes,1 × Soya Chaap Curry + Rice + 1 × w/ Curd,Yes
+600,Carrot Beet Pancake,Dinner,Veg,Deficit,"Yoga,Weight Loss",668,13.1,56.4,6.3,14.0,Low,27,No,No,1 × Carrot Beet Pancake + 1 × Lassi,No
